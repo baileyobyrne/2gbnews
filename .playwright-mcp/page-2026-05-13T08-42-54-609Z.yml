@@ -1,0 +1,255 @@
+- generic [active] [ref=e1]:
+  - img [ref=e3]
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - navigation [ref=e7]:
+        - list [ref=e8]:
+          - listitem [ref=e9]:
+            - paragraph [ref=e10]:
+              - img [ref=e11]
+          - listitem [ref=e12]:
+            - link "Login" [ref=e13] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e14]:
+            - link "Register" [ref=e15] [cursor=pointer]:
+              - /url: "#"
+        - list [ref=e16]:
+          - listitem [ref=e17]:
+            - link "131 873" [ref=e18] [cursor=pointer]:
+              - /url: tel:131%20873
+              - img [ref=e19]
+              - text: 131 873
+          - listitem [ref=e21]:
+            - generic [ref=e22]: MENU
+      - link "2GB" [ref=e31] [cursor=pointer]:
+        - /url: https://www.2gb.com/
+        - img "2GB" [ref=e32]
+      - generic [ref=e35]:
+        - generic [ref=e36] [cursor=pointer]:
+          - img [ref=e39]
+          - generic [ref=e41]: LISTEN
+        - link [ref=e43] [cursor=pointer]:
+          - /url: https://www.2gb.com/show/wide-world-of-sports/
+          - img [ref=e44]
+        - generic [ref=e47]:
+          - generic [ref=e48]: on air now
+          - link "Sports Today with Adam Hawse" [ref=e50] [cursor=pointer]:
+            - /url: https://www.2gb.com/show/wide-world-of-sports/
+            - generic [ref=e51]: Sports Today with Adam Hawse
+        - generic [ref=e53]:
+          - img [ref=e55]
+          - paragraph [ref=e57]: FEEDBACK
+    - generic [ref=e58]:
+      - generic [ref=e68]:
+        - list [ref=e70]:
+          - listitem [ref=e71]:
+            - link "Home" [ref=e72] [cursor=pointer]:
+              - /url: https://www.2gb.com
+            - text: ⁄
+          - listitem [ref=e73]:
+            - link "News" [ref=e74] [cursor=pointer]:
+              - /url: https://www.2gb.com/category/news/
+            - text: ⁄
+          - listitem [ref=e75]: ‘Voters scammed’ – PM confirms more..
+        - generic [ref=e76]:
+          - heading "‘Voters scammed’ – PM confirms more broken promises" [level=2] [ref=e77]
+          - generic [ref=e78]:
+            - generic [ref=e79]:
+              - img [ref=e81]
+              - generic [ref=e85]: 10 hours ago
+            - generic [ref=e86]:
+              - generic [ref=e88]: Share article
+              - list [ref=e90]:
+                - listitem [ref=e91]:
+                  - link "Share this article on your Facebook account" [ref=e92] [cursor=pointer]:
+                    - /url: http://www.facebook.com/sharer.php?u=https://www.2gb.com/voters-scammed-pm-confirms-more-broken-promises/
+                    - img [ref=e93]
+                - listitem [ref=e96]:
+                  - link "Share this article on your Twitter feed" [ref=e97] [cursor=pointer]:
+                    - /url: http://twitter.com/intent/tweet?text=2GB%20-%20‘Voters%20scammed’%20–%20PM%20confirms%20more%20broken%20promises&url=https://www.2gb.com/voters-scammed-pm-confirms-more-broken-promises/
+                    - img [ref=e98]
+                - listitem [ref=e101]:
+                  - link "Share this article via email. A new, draft email will be opened in your default email application." [ref=e102] [cursor=pointer]:
+                    - /url: mailto:?subject=Sharing an article with you from 2GB&body=I found this article on the 2GB website and thought you might be interested.%0d%0a%0d%0a‘Voters scammed’ – PM confirms more broken promises%0d%0a%0d%0ahttps://www.2gb.com/voters-scammed-pm-confirms-more-broken-promises/.
+                    - img [ref=e103]
+        - generic [ref=e106]:
+          - generic [ref=e107]:
+            - img "Article image for ‘Voters scammed’ – PM confirms more broken promises" [ref=e110]
+            - generic [ref=e113]:
+              - paragraph [ref=e114]:
+                - iframe [ref=e115]:
+                  - generic [active] [ref=f1e1]:
+                    - generic [ref=f1e5]:
+                      - generic [ref=f1e7]:
+                        - generic [ref=f1e8]:
+                          - generic [ref=f1e9]: Ben Fordham Live
+                          - generic [ref=f1e10]:
+                            - button "Info" [ref=f1e11] [cursor=pointer]:
+                              - img [ref=f1e12]
+                            - button "Share" [ref=f1e14] [cursor=pointer]:
+                              - img [ref=f1e15]
+                        - generic "‘Voters scammed’ - PM confirms more broken promises 🤥" [ref=f1e19]:
+                          - generic [ref=f1e20]:
+                            - generic [ref=f1e22]: ‘Voters scammed’ - PM confirms more broken promises 🤥
+                            - generic [ref=f1e24]: ‘Voters scammed’ - PM confirms more broken promises 🤥
+                        - generic [ref=f1e25]:
+                          - generic [ref=f1e27]: 00:00
+                          - generic [ref=f1e29]: 04:03
+                        - generic [ref=f1e30]:
+                          - slider [ref=f1e32]: "0"
+                          - link "Powered by Omny Studio" [ref=f1e41] [cursor=pointer]:
+                            - /url: https://tritondigital.com/solutions/Enterprise-Podcasting/Omny-Studio
+                            - img [ref=f1e42]
+                      - button "Play" [ref=f1e45] [cursor=pointer]:
+                        - img [ref=f1e46]
+                    - alert [ref=f1e48]
+              - paragraph [ref=e116]:
+                - strong [ref=e117]: Anthony Albanese has just revealed some of the biggest broken promises in Australian political history.
+              - paragraph [ref=e118]:
+                - strong [ref=e119]:
+                  - text: Hear more highlights from Ben Fordham Live in the playlist below and give us a follow on
+                  - link "Apple Podcasts" [ref=e120] [cursor=pointer]:
+                    - /url: https://apple.co/3HtVMMC
+                  - text: ":"
+              - paragraph [ref=e121]:
+                - iframe [ref=e122]:
+                  - generic [active]:
+                    - main "Apple Podcasts Web Embed":
+                      - img [ref=f2e2]
+              - paragraph [ref=e123]: IMAGE CREDIT / GETTY IMAGES, Hilary Wardhaugh
+          - generic [ref=e124]:
+            - generic [ref=e125]: Ben Fordham
+            - generic [ref=e126]:
+              - img [ref=e128]
+              - generic [ref=e131]:
+                - link "Australia⁄" [ref=e132] [cursor=pointer]:
+                  - /url: https://www.2gb.com/category/news/australia/
+                - link "News" [ref=e133] [cursor=pointer]:
+                  - /url: https://www.2gb.com/category/news/
+            - generic [ref=e134]:
+              - generic [ref=e136]: Share article
+              - list [ref=e138]:
+                - listitem [ref=e139]:
+                  - link "Share this article on your Facebook account" [ref=e140] [cursor=pointer]:
+                    - /url: http://www.facebook.com/sharer.php?u=https://www.2gb.com/voters-scammed-pm-confirms-more-broken-promises/
+                    - img [ref=e141]
+                - listitem [ref=e144]:
+                  - link "Share this article on your Twitter feed" [ref=e145] [cursor=pointer]:
+                    - /url: http://twitter.com/intent/tweet?text=2GB%20-%20‘Voters%20scammed’%20–%20PM%20confirms%20more%20broken%20promises&url=https://www.2gb.com/voters-scammed-pm-confirms-more-broken-promises/
+                    - img [ref=e146]
+                - listitem [ref=e149]:
+                  - link "Share this article via email. A new, draft email will be opened in your default email application." [ref=e150] [cursor=pointer]:
+                    - /url: mailto:?subject=Sharing an article with you from 2GB&body=I found this article on the 2GB website and thought you might be interested.%0d%0a%0d%0a‘Voters scammed’ – PM confirms more broken promises%0d%0a%0d%0ahttps://www.2gb.com/voters-scammed-pm-confirms-more-broken-promises/.
+                    - img [ref=e151]
+      - generic [ref=e158]:
+        - generic [ref=e159] [cursor=pointer]:
+          - generic [ref=e160]: 131 873
+          - link [ref=e162]:
+            - /url: tel:131%20873
+            - img [ref=e164]
+        - generic [ref=e166] [cursor=pointer]:
+          - generic [ref=e167]: FEEDBACK
+          - img [ref=e170]
+      - contentinfo [ref=e172]:
+        - generic [ref=e174]:
+          - generic [ref=e175]:
+            - link "2GB" [ref=e177] [cursor=pointer]:
+              - /url: https://www.2gb.com
+              - img "2GB" [ref=e178]
+            - generic:
+              - paragraph
+          - generic [ref=e179]:
+            - generic [ref=e180]:
+              - generic [ref=e182]:
+                - generic [ref=e183]:
+                  - heading "QUICK LINKS" [level=3] [ref=e184]
+                  - navigation [ref=e185]:
+                    - list [ref=e186]:
+                      - listitem [ref=e187]:
+                        - link "Shows" [ref=e188] [cursor=pointer]:
+                          - /url: https://www.2gb.com/shows/
+                      - listitem [ref=e189]:
+                        - link "Audio" [ref=e190] [cursor=pointer]:
+                          - /url: https://www.2gb.com/audio/
+                      - listitem [ref=e191]:
+                        - link "Competitions" [ref=e192] [cursor=pointer]:
+                          - /url: https://www.2gb.com/competitions/
+                      - listitem [ref=e193]:
+                        - link "Sports" [ref=e194] [cursor=pointer]:
+                          - /url: https://www.2gb.com/category/sport/
+                      - listitem [ref=e195]:
+                        - link "Rugby League" [ref=e196] [cursor=pointer]:
+                          - /url: https://www.2gb.com/rugby-league/
+                - generic [ref=e197]:
+                  - heading "NEWS" [level=3] [ref=e198]
+                  - navigation [ref=e199]:
+                    - list [ref=e200]:
+                      - listitem [ref=e201]:
+                        - link "All News" [ref=e202] [cursor=pointer]:
+                          - /url: https://www.2gb.com/audio/
+                      - listitem [ref=e203]:
+                        - link "News" [ref=e204] [cursor=pointer]:
+                          - /url: https://www.2gb.com/category/news/
+                      - listitem [ref=e205]:
+                        - link "Sports" [ref=e206] [cursor=pointer]:
+                          - /url: https://www.2gb.com/category/sport/
+                      - listitem [ref=e207]:
+                        - link "Money" [ref=e208] [cursor=pointer]:
+                          - /url: https://www.2gb.com/category/money/
+                      - listitem [ref=e209]:
+                        - link "Lifestyle" [ref=e210] [cursor=pointer]:
+                          - /url: https://www.2gb.com/category/lifestyle/
+              - generic [ref=e212]:
+                - heading "Join the conversation" [level=3] [ref=e213]
+                - navigation [ref=e214]:
+                  - list [ref=e215]:
+                    - listitem [ref=e216]:
+                      - link "Follow us on Facebook" [ref=e217] [cursor=pointer]:
+                        - /url: http://facebook.com/2GBSydney/
+                        - img [ref=e219]
+                        - text: Follow us on Facebook
+                    - listitem [ref=e222]:
+                      - link "Follow us on Twitter" [ref=e223] [cursor=pointer]:
+                        - /url: https://twitter.com/2GB873
+                        - img [ref=e225]
+                        - text: Follow us on Twitter
+                    - listitem [ref=e228]:
+                      - link "Keep up to date on YouTube" [ref=e229] [cursor=pointer]:
+                        - /url: https://www.youtube.com/@2GBSydney
+                        - img [ref=e231]
+                        - text: Keep up to date on YouTube
+            - generic [ref=e233]:
+              - heading "Get the app on your phone" [level=3] [ref=e234]
+              - list [ref=e236]:
+                - listitem [ref=e237]:
+                  - link "2GB IOS App Link" [ref=e238] [cursor=pointer]:
+                    - /url: https://itunes.apple.com/au/app/2gb/id403184432
+                    - img "2GB IOS App Link" [ref=e239]
+                - listitem [ref=e240]:
+                  - link "2GB Android App Link" [ref=e241] [cursor=pointer]:
+                    - /url: https://play.google.com/store/apps/details?id=com.jbm.macq.kony.twogb&hl=en
+                    - img "2GB Android App Link" [ref=e242]
+        - generic [ref=e245]:
+          - generic [ref=e247]: © Copyright Tapt Media 2026
+          - navigation [ref=e249]:
+            - list [ref=e250]:
+              - listitem [ref=e251]:
+                - link "Advertise with us" [ref=e252] [cursor=pointer]:
+                  - /url: https://www.2gb.com/advertise-with-us/
+              - listitem [ref=e253]:
+                - text: ⁄
+                - link "Commercial Agreements" [ref=e254] [cursor=pointer]:
+                  - /url: https://www.2gb.com/commercial-agreements/
+              - listitem [ref=e255]:
+                - text: ⁄
+                - link "Privacy Policy" [ref=e256] [cursor=pointer]:
+                  - /url: https://login.taptmedia.com.au/privacy?client_id=2gb
+              - listitem [ref=e257]:
+                - text: ⁄
+                - link "Support" [ref=e258] [cursor=pointer]:
+                  - /url: https://www.2gb.com/support/
+              - listitem [ref=e259]:
+                - text: ⁄
+                - link "Complaints" [ref=e260] [cursor=pointer]:
+                  - /url: https://www.2gb.com/listener-complaints/
+  - img

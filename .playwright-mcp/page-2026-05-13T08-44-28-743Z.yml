@@ -1,0 +1,218 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "2GB Home" [ref=e4] [cursor=pointer]:
+        - /url: https://www.2gb.com/
+        - img "2GB" [ref=e5]
+      - button "Menu" [ref=e7]:
+        - img [ref=e8]
+    - generic [ref=e10]:
+      - button "Listen" [ref=e11]:
+        - img [ref=e13]
+        - generic [ref=e15]: Listen
+      - link "On Air Now AFTERNOONS WITH MICHAEL MCLAREN" [ref=e16] [cursor=pointer]:
+        - /url: https://www.2gb.com/show/2gb-afternoons/
+        - generic [ref=e17]:
+          - generic [ref=e18]: On Air Now
+          - generic [ref=e24]: AFTERNOONS WITH MICHAEL MCLAREN
+      - link "Feedback" [ref=e26] [cursor=pointer]:
+        - /url: https://www.2gb.com/contact-us/
+        - img [ref=e27]
+        - text: Feedback
+  - main [ref=e29]:
+    - generic [ref=e30]:
+      - navigation "Breadcrumb" [ref=e31]:
+        - list [ref=e32]:
+          - listitem [ref=e33]:
+            - link "Home" [ref=e34] [cursor=pointer]:
+              - /url: https://www.2gb.com/
+            - generic [ref=e35]: /
+          - listitem [ref=e36]:
+            - link "News" [ref=e37] [cursor=pointer]:
+              - /url: https://www.2gb.com/category/news/
+            - generic [ref=e38]: /
+          - listitem [ref=e39]:
+            - generic "‘A predator’s paradise’ – TikTok is feeding our teenage daughters to grown men" [ref=e40]: ‘A predator’s paradise’ – TikTok...
+      - generic [ref=e42]:
+        - heading "‘A predator’s paradise’ – TikTok is feeding our teenage daughters to grown men" [level=2] [ref=e43]
+        - generic [ref=e44]:
+          - time [ref=e45]: 05/05/2026
+          - generic [ref=e46]:
+            - generic [ref=e47]: Share this article
+            - link "Share on Facebook" [ref=e48] [cursor=pointer]:
+              - /url: http://www.facebook.com/sharer.php?u=https%3A%2F%2F2gbnews.pages.dev%2Fa-predators-paradise-tiktok-is-feeding-our-teenage-daughters-to-grown-men%2F
+              - img [ref=e49]
+            - link "Share on Twitter" [ref=e51] [cursor=pointer]:
+              - /url: https://twitter.com/intent/tweet?url=https%3A%2F%2F2gbnews.pages.dev%2Fa-predators-paradise-tiktok-is-feeding-our-teenage-daughters-to-grown-men%2F&text=2GB%20-%20%E2%80%98A%20predator%E2%80%99s%20paradise%E2%80%99%20%E2%80%93%20TikTok%20is%20feeding%20our%20teenage%20daughters%20to%20grown%20men
+              - img [ref=e52]
+            - link "Share via email" [ref=e54] [cursor=pointer]:
+              - /url: mailto:?subject=Sharing%20an%20article%20with%20you%20from%202GB&body=I%20found%20this%20article%20on%20the%202GB%20website%20and%20thought%20you%20might%20be%20interested.%0D%0A%0D%0A%E2%80%98A%20predator%E2%80%99s%20paradise%E2%80%99%20%E2%80%93%20TikTok%20is%20feeding%20our%20teenage%20daughters%20to%20grown%20men%0D%0A%0D%0Ahttps%3A%2F%2F2gbnews.pages.dev%2Fa-predators-paradise-tiktok-is-feeding-our-teenage-daughters-to-grown-men%2F.
+              - img [ref=e55]
+      - generic [ref=e58]:
+        - link "BEN FORDHAM" [ref=e59] [cursor=pointer]:
+          - /url: https://www.2gb.com/show/ben-fordham-live/
+        - button "Tags" [ref=e60]:
+          - img [ref=e61]
+      - generic [ref=e64]:
+        - generic [ref=e65]:
+          - generic [ref=e66]:
+            - figure [ref=e67]:
+              - img "A teenage girl filming a TikTok video on a smartphone in her bedroom" [ref=e68]
+            - generic [ref=e69]:
+              - paragraph [ref=e70]:
+                - strong [ref=e71]: Mums and dads, this one will turn your stomach.
+              - paragraph [ref=e72]: There is now a growing pile of evidence that TikTok’s so-called “For You” algorithm is doing something deeply disturbing — pushing videos posted by teenage girls straight onto the screens of grown men.
+              - paragraph [ref=e73]: We’re not talking about anything those girls did wrong. They’re posting the everyday stuff a 14-year-old uploads — dance routines, lip-syncs, clips from a school dance, mucking around with friends. Then somewhere inside TikTok’s black box, the algorithm sorts the audience. And the eyeballs watching that 14-year-old aren’t her classmates. They’re middle-aged men, in suburbs all over Australia, with viewing histories that would horrify any parent.
+              - paragraph [ref=e74]:
+                - text: "Researchers have been raising the alarm for years. The pattern keeps coming back the same way: set up a brand-new account posing as an adult man, linger on a couple of clips of underage girls, and within minutes the feed is flooded with more of the same."
+                - strong [ref=e75]: The platform isn’t just allowing it. It is engineering it.
+              - paragraph [ref=e76]: Australia’s eSafety Commissioner has been hammering this point for years. We’ve now passed laws banning under-16s from social media on paper. But laws on paper don’t stop an algorithm that has been quietly built to maximise watch-time at the expense of every kid on the platform.
+              - paragraph [ref=e77]:
+                - strong [ref=e78]:
+                  - text: Hear more on this and other talking points from Ben Fordham Live in the playlist below and give us a follow on
+                  - link "Apple Podcasts" [ref=e79] [cursor=pointer]:
+                    - /url: https://apple.co/3HtVMMC
+                  - text: ":"
+            - generic [ref=e80]:
+              - generic [ref=e84]:
+                - generic [ref=e85]:
+                  - paragraph [ref=e86]: Ben Fordham Full Show
+                  - paragraph [ref=e87]: ‘A predator’s paradise’ – TikTok is feeding our teenage daughters to grown men
+                - generic [ref=e88]:
+                  - button "Play" [ref=e89]:
+                    - img [ref=e90]
+                  - generic [ref=e95]:
+                    - generic [ref=e96]: 00:42
+                    - generic [ref=e97]: 03:51
+              - generic [ref=e98]:
+                - generic [ref=e101]:
+                  - paragraph [ref=e102]: Listen on Apple Podcasts
+                  - paragraph [ref=e103]: Ben Fordham Live on 2GB Breakfast
+                  - paragraph [ref=e104]: 2GB · News & Talk
+                - generic [ref=e105]:
+                  - paragraph [ref=e106]: ‘A predator’s paradise’ – TikTok is feeding our teenage daughters to grown men
+                  - button "Play episode" [ref=e107]:
+                    - img [ref=e109]
+                    - text: Play episode
+            - paragraph [ref=e112]: Parents — pick up your daughter’s phone tonight. Open TikTok. Watch what the For You page serves up. If it makes you feel sick, you’re paying attention. Now demand that the next round of online-safety enforcement holds the platforms accountable, not just the kids.
+            - paragraph [ref=e113]: IMAGE CREDIT / ISTOCK
+          - generic [ref=e114]:
+            - generic [ref=e115]:
+              - link "BEN FORDHAM" [ref=e116] [cursor=pointer]:
+                - /url: https://www.2gb.com/show/ben-fordham-live/
+              - link "AUSTRALIA" [ref=e117] [cursor=pointer]:
+                - /url: https://www.2gb.com/tag/australia/
+              - link "NEWS" [ref=e118] [cursor=pointer]:
+                - /url: https://www.2gb.com/category/news/
+            - generic [ref=e119]:
+              - generic [ref=e120]: Share this article
+              - link "Share on Facebook" [ref=e121] [cursor=pointer]:
+                - /url: http://www.facebook.com/sharer.php?u=https%3A%2F%2F2gbnews.pages.dev%2Fa-predators-paradise-tiktok-is-feeding-our-teenage-daughters-to-grown-men%2F
+                - img [ref=e122]
+              - link "Share on Twitter" [ref=e124] [cursor=pointer]:
+                - /url: https://twitter.com/intent/tweet?url=https%3A%2F%2F2gbnews.pages.dev%2Fa-predators-paradise-tiktok-is-feeding-our-teenage-daughters-to-grown-men%2F&text=2GB%20-%20%E2%80%98A%20predator%E2%80%99s%20paradise%E2%80%99%20%E2%80%93%20TikTok%20is%20feeding%20our%20teenage%20daughters%20to%20grown%20men
+                - img [ref=e125]
+              - link "Share via email" [ref=e127] [cursor=pointer]:
+                - /url: mailto:?subject=Sharing%20an%20article%20with%20you%20from%202GB&body=I%20found%20this%20article%20on%20the%202GB%20website%20and%20thought%20you%20might%20be%20interested.%0D%0A%0D%0A%E2%80%98A%20predator%E2%80%99s%20paradise%E2%80%99%20%E2%80%93%20TikTok%20is%20feeding%20our%20teenage%20daughters%20to%20grown%20men%0D%0A%0D%0Ahttps%3A%2F%2F2gbnews.pages.dev%2Fa-predators-paradise-tiktok-is-feeding-our-teenage-daughters-to-grown-men%2F.
+                - img [ref=e128]
+        - complementary
+  - generic [ref=e133]:
+    - generic [ref=e134]:
+      - link "1300 654 321" [ref=e135] [cursor=pointer]:
+        - /url: tel:1300654321
+        - img [ref=e137]
+        - generic [ref=e139]: 1300 654 321
+      - link "Feedback" [ref=e140] [cursor=pointer]:
+        - /url: https://www.2gb.com/contact-us/
+        - img [ref=e142]
+        - generic [ref=e144]: Feedback
+    - link "2GB Sydney" [ref=e145] [cursor=pointer]:
+      - /url: https://www.2gb.com/
+      - img "2GB Sydney" [ref=e146]
+  - contentinfo [ref=e147]:
+    - generic [ref=e149]:
+      - img "2GB Sydney" [ref=e151]
+      - generic [ref=e152]:
+        - generic [ref=e153]:
+          - generic [ref=e154]:
+            - heading "QUICK LINKS" [level=3] [ref=e155]
+            - list [ref=e156]:
+              - listitem [ref=e157]:
+                - link "Shows" [ref=e158] [cursor=pointer]:
+                  - /url: https://www.2gb.com/shows/
+              - listitem [ref=e159]:
+                - link "Audio" [ref=e160] [cursor=pointer]:
+                  - /url: https://www.2gb.com/audio/
+              - listitem [ref=e161]:
+                - link "Competitions" [ref=e162] [cursor=pointer]:
+                  - /url: https://www.2gb.com/competitions/
+              - listitem [ref=e163]:
+                - link "Sports" [ref=e164] [cursor=pointer]:
+                  - /url: https://www.2gb.com/category/sport/
+              - listitem [ref=e165]:
+                - link "Rugby League" [ref=e166] [cursor=pointer]:
+                  - /url: https://www.2gb.com/rugby-league/
+          - generic [ref=e167]:
+            - heading "NEWS" [level=3] [ref=e168]
+            - list [ref=e169]:
+              - listitem [ref=e170]:
+                - link "All News" [ref=e171] [cursor=pointer]:
+                  - /url: https://www.2gb.com/category/news/
+              - listitem [ref=e172]:
+                - link "News" [ref=e173] [cursor=pointer]:
+                  - /url: https://www.2gb.com/category/news/
+              - listitem [ref=e174]:
+                - link "Sports" [ref=e175] [cursor=pointer]:
+                  - /url: https://www.2gb.com/category/sport/
+              - listitem [ref=e176]:
+                - link "Money" [ref=e177] [cursor=pointer]:
+                  - /url: https://www.2gb.com/category/money/
+              - listitem [ref=e178]:
+                - link "Lifestyle" [ref=e179] [cursor=pointer]:
+                  - /url: https://www.2gb.com/category/lifestyle/
+          - generic [ref=e180]:
+            - heading "Join the Conversation" [level=3] [ref=e181]
+            - list [ref=e182]:
+              - listitem [ref=e183]:
+                - link "Follow us on Facebook" [ref=e184] [cursor=pointer]:
+                  - /url: https://www.facebook.com/2gb873/
+                  - img [ref=e185]
+                  - text: Follow us on Facebook
+              - listitem [ref=e187]:
+                - link "Follow us on Twitter" [ref=e188] [cursor=pointer]:
+                  - /url: https://twitter.com/2GB873
+                  - img [ref=e189]
+                  - text: Follow us on Twitter
+              - listitem [ref=e191]:
+                - link "Keep up to date on YouTube" [ref=e192] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@2GBSydney
+                  - img [ref=e193]
+                  - text: Keep up to date on YouTube
+        - generic [ref=e195]:
+          - heading "Get the App on Your Phone" [level=3] [ref=e196]
+          - generic [ref=e197]:
+            - link "Download on the App Store" [ref=e198] [cursor=pointer]:
+              - /url: https://itunes.apple.com/au/app/2gb/id403184432
+              - img "App Store" [ref=e199]
+            - link "Get it on Google Play" [ref=e200] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.jbm.macq.kony.twogb
+              - img "Google Play" [ref=e201]
+    - generic [ref=e203]:
+      - paragraph [ref=e204]: © Copyright Tapt Media 2026
+      - list [ref=e205]:
+        - listitem [ref=e206]:
+          - link "Advertise with us" [ref=e207] [cursor=pointer]:
+            - /url: https://www.2gb.com/advertise-with-us/
+        - listitem [ref=e208]:
+          - link "Commercial Agreements" [ref=e209] [cursor=pointer]:
+            - /url: https://www.2gb.com/commercial-agreements/
+        - listitem [ref=e210]:
+          - link "Privacy Policy" [ref=e211] [cursor=pointer]:
+            - /url: https://www.2gb.com/privacy-policy/
+        - listitem [ref=e212]:
+          - link "Support" [ref=e213] [cursor=pointer]:
+            - /url: https://www.2gb.com/support/
+        - listitem [ref=e214]:
+          - link "Complaints" [ref=e215] [cursor=pointer]:
+            - /url: https://www.2gb.com/listener-complaints/
+  - alert [ref=e216]
