@@ -24,7 +24,27 @@
       svg.setAttribute('class','h-4 w-auto');
       svg.innerHTML = '<path fill="currentColor" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"/>';
     });
-    // ---- remove circular wrapper from share buttons (match 2gb.com flat icons) ----
+    // ---- F-alt: set descriptive alt text on the article hero image (currently empty) ----
+    document.querySelectorAll('img[src*="/images/article-hero.jpg"]').forEach(function(img){
+      if (!img.getAttribute('alt')) {
+        img.setAttribute('alt', 'Teenage girl filming herself on a smartphone — TikTok algorithm illustration');
+      }
+    });
+
+    // ---- F-h1: promote the article headline from <h2> to <h1> for SEO/accessibility ----
+    document.querySelectorAll('h2').forEach(function(h2){
+      if (!/predator/i.test(h2.textContent)) return;
+      if (h2.dataset.fidelityPromoted) return;
+      var h1 = document.createElement('h1');
+      for (var k = 0; k < h2.attributes.length; k++) {
+        h1.setAttribute(h2.attributes[k].name, h2.attributes[k].value);
+      }
+      h1.innerHTML = h2.innerHTML;
+      h1.dataset.fidelityPromoted = '1';
+      h2.replaceWith(h1);
+    });
+
+        // ---- remove circular wrapper from share buttons (match 2gb.com flat icons) ----
     document.querySelectorAll('a[aria-label^="Share"]').forEach(function(a){
       a.classList.remove('rounded-full','hover:bg-[var(--brand-blue)]','hover:text-white','transition-colors','h-7','w-7');
       a.classList.add('h-9','w-9','hover:opacity-60','transition-opacity');
