@@ -1,0 +1,6 @@
+[   78128ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://www.2gb.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[   78791ms] [WARNING] [iFrameSizer][Host page: enablePublicMethods option has been removed, public methods are now always available in the iFrame] undefined @ https://www.2gb.com/wp-content/themes/ucms/assets/lib/iframe-resizer/iframeResizer.min.js?ver=1778626845:7
+[   79152ms] [WARNING] [GPT] PubAdsService.setCentering is deprecated, use googletag.setConfig({centering: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202605070101/pubads_impl.js?cb=31098428:18
+[   79159ms] [WARNING] [GPT] Slot.setCollapseEmptyDiv is deprecated, use Slot.setConfig({collapseDiv: ...}) instead.
+https://goo.gle/gpt-message#171 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202605070101/pubads_impl.js?cb=31098428:18
