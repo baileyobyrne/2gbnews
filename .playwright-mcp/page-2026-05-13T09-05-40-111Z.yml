@@ -1,0 +1,473 @@
+- generic [active] [ref=e1]:
+  - img [ref=e3]
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - navigation [ref=e7]:
+        - list [ref=e8]:
+          - listitem [ref=e9]:
+            - paragraph [ref=e10]:
+              - img [ref=e11]
+          - listitem [ref=e12]:
+            - link "Login" [ref=e13] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e14]:
+            - link "Register" [ref=e15] [cursor=pointer]:
+              - /url: "#"
+        - list [ref=e16]:
+          - listitem [ref=e17]:
+            - link "131 873" [ref=e18] [cursor=pointer]:
+              - /url: tel:131%20873
+              - img [ref=e19]
+              - text: 131 873
+          - listitem [ref=e21]:
+            - generic [ref=e22]: MENU
+      - link "2GB" [ref=e31] [cursor=pointer]:
+        - /url: https://www.2gb.com/
+        - img "2GB" [ref=e32]
+      - generic [ref=e35]:
+        - generic [ref=e36] [cursor=pointer]:
+          - img [ref=e39]
+          - generic [ref=e41]: LISTEN
+        - link [ref=e43] [cursor=pointer]:
+          - /url: https://www.2gb.com/show/money-news/
+          - img [ref=e44]
+        - generic [ref=e47]:
+          - generic [ref=e48]: on air now
+          - link "Money News with James Willis" [ref=e50] [cursor=pointer]:
+            - /url: https://www.2gb.com/show/money-news/
+            - generic [ref=e51]: Money News with James Willis
+        - generic [ref=e53]:
+          - img [ref=e55]
+          - paragraph [ref=e57]: FEEDBACK
+    - generic [ref=e58]:
+      - generic [ref=e61]:
+        - toolbar [ref=e69]:
+          - listbox [ref=e71]:
+            - generic [ref=e73]:
+              - link [ref=e75] [cursor=pointer]:
+                - /url: https://www.2gb.com/hiding-behind-race-jacinta-price-delivers-epic-spray-in-parliament/
+              - generic [ref=e76]:
+                - link [ref=e78] [cursor=pointer]:
+                  - /url: https://www.2gb.com/hiding-behind-race-jacinta-price-delivers-epic-spray-in-parliament/
+                  - text: ‘Hiding behind race’ – Jacinta Price delivers epic spray in Parliament
+                - link [ref=e80] [cursor=pointer]:
+                  - /url: https://www.2gb.com/hiding-behind-race-jacinta-price-delivers-epic-spray-in-parliament/
+                - generic [ref=e82]: Ben Fordham
+            - generic [ref=e84]:
+              - link [ref=e86] [cursor=pointer]:
+                - /url: https://www.2gb.com/exclusive-pensioner-gary-reveals-he-cant-afford-hot-showers/
+              - generic [ref=e87]:
+                - link [ref=e89] [cursor=pointer]:
+                  - /url: https://www.2gb.com/exclusive-pensioner-gary-reveals-he-cant-afford-hot-showers/
+                  - text: EXCLUSIVE – Pensioner Gary reveals he can’t afford hot showers
+                - link [ref=e91] [cursor=pointer]:
+                  - /url: https://www.2gb.com/exclusive-pensioner-gary-reveals-he-cant-afford-hot-showers/
+                - generic [ref=e93]: Ben Fordham
+            - option "‘Voters scammed’ – PM confirms more broken promises Ben Fordham" [ref=e94]:
+              - generic [ref=e95]:
+                - link [ref=e97] [cursor=pointer]:
+                  - /url: https://www.2gb.com/voters-scammed-pm-confirms-more-broken-promises/
+                - generic [ref=e98]:
+                  - link "‘Voters scammed’ – PM confirms more broken promises" [ref=e100] [cursor=pointer]:
+                    - /url: https://www.2gb.com/voters-scammed-pm-confirms-more-broken-promises/
+                  - link [ref=e102] [cursor=pointer]:
+                    - /url: https://www.2gb.com/voters-scammed-pm-confirms-more-broken-promises/
+                    - img [ref=e103]
+                  - generic [ref=e108]: Ben Fordham
+            - option [ref=e109]:
+              - generic [ref=e110]:
+                - link [ref=e112] [cursor=pointer]:
+                  - /url: https://www.2gb.com/going-for-broke-michaels-warning-following-the-federal-budget/
+                - generic [ref=e113]:
+                  - link [ref=e115] [cursor=pointer]:
+                    - /url: https://www.2gb.com/going-for-broke-michaels-warning-following-the-federal-budget/
+                    - text: ‘Going for broke’ – Michael’s warning following the federal budget
+                  - link [ref=e117] [cursor=pointer]:
+                    - /url: https://www.2gb.com/going-for-broke-michaels-warning-following-the-federal-budget/
+                    - img [ref=e118]
+                  - generic [ref=e123]: Michael McLaren
+            - option [ref=e124]:
+              - generic [ref=e125]:
+                - link [ref=e127] [cursor=pointer]:
+                  - /url: https://www.2gb.com/happy-to-work-with-her-angus-taylor-on-working-with-pauline-hanson/
+                - generic [ref=e128]:
+                  - link [ref=e130] [cursor=pointer]:
+                    - /url: https://www.2gb.com/happy-to-work-with-her-angus-taylor-on-working-with-pauline-hanson/
+                    - text: ‘Happy to work with her’ – Angus Taylor on working with Pauline Hanson
+                  - link [ref=e132] [cursor=pointer]:
+                    - /url: https://www.2gb.com/happy-to-work-with-her-angus-taylor-on-working-with-pauline-hanson/
+                    - img [ref=e133]
+                  - generic [ref=e138]: Mark Levy
+            - option [ref=e139]:
+              - generic [ref=e140]:
+                - link [ref=e142] [cursor=pointer]:
+                  - /url: https://www.2gb.com/budget-blow-invictus-australia-has-funding-axed/
+                - generic [ref=e143]:
+                  - link [ref=e145] [cursor=pointer]:
+                    - /url: https://www.2gb.com/budget-blow-invictus-australia-has-funding-axed/
+                    - text: ‘Budget blow’ – Invictus Australia has funding axed
+                  - link [ref=e147] [cursor=pointer]:
+                    - /url: https://www.2gb.com/budget-blow-invictus-australia-has-funding-axed/
+                    - img [ref=e148]
+                  - generic [ref=e153]: Ben Fordham
+            - option [ref=e154]:
+              - generic [ref=e155]:
+                - link [ref=e157] [cursor=pointer]:
+                  - /url: https://www.2gb.com/hiding-behind-race-jacinta-price-delivers-epic-spray-in-parliament/
+                - generic [ref=e158]:
+                  - link [ref=e160] [cursor=pointer]:
+                    - /url: https://www.2gb.com/hiding-behind-race-jacinta-price-delivers-epic-spray-in-parliament/
+                    - text: ‘Hiding behind race’ – Jacinta Price delivers epic spray in Parliament
+                  - link [ref=e162] [cursor=pointer]:
+                    - /url: https://www.2gb.com/hiding-behind-race-jacinta-price-delivers-epic-spray-in-parliament/
+                    - img [ref=e163]
+                  - generic [ref=e168]: Ben Fordham
+            - option [ref=e169]:
+              - generic [ref=e170]:
+                - link [ref=e172] [cursor=pointer]:
+                  - /url: https://www.2gb.com/exclusive-pensioner-gary-reveals-he-cant-afford-hot-showers/
+                - generic [ref=e173]:
+                  - link [ref=e175] [cursor=pointer]:
+                    - /url: https://www.2gb.com/exclusive-pensioner-gary-reveals-he-cant-afford-hot-showers/
+                    - text: EXCLUSIVE – Pensioner Gary reveals he can’t afford hot showers
+                  - link [ref=e177] [cursor=pointer]:
+                    - /url: https://www.2gb.com/exclusive-pensioner-gary-reveals-he-cant-afford-hot-showers/
+                    - img [ref=e178]
+                  - generic [ref=e183]: Ben Fordham
+            - generic [ref=e185]:
+              - link [ref=e187] [cursor=pointer]:
+                - /url: https://www.2gb.com/voters-scammed-pm-confirms-more-broken-promises/
+              - generic [ref=e188]:
+                - link [ref=e190] [cursor=pointer]:
+                  - /url: https://www.2gb.com/voters-scammed-pm-confirms-more-broken-promises/
+                  - text: ‘Voters scammed’ – PM confirms more broken promises
+                - link [ref=e192] [cursor=pointer]:
+                  - /url: https://www.2gb.com/voters-scammed-pm-confirms-more-broken-promises/
+                - generic [ref=e194]: Ben Fordham
+            - generic [ref=e196]:
+              - link [ref=e198] [cursor=pointer]:
+                - /url: https://www.2gb.com/going-for-broke-michaels-warning-following-the-federal-budget/
+              - generic [ref=e199]:
+                - link [ref=e201] [cursor=pointer]:
+                  - /url: https://www.2gb.com/going-for-broke-michaels-warning-following-the-federal-budget/
+                  - text: ‘Going for broke’ – Michael’s warning following the federal budget
+                - link [ref=e203] [cursor=pointer]:
+                  - /url: https://www.2gb.com/going-for-broke-michaels-warning-following-the-federal-budget/
+                - generic [ref=e205]: Michael McLaren
+          - tablist [ref=e206]:
+            - listitem [ref=e207] [cursor=pointer]
+            - listitem [ref=e208] [cursor=pointer]
+            - listitem [ref=e209] [cursor=pointer]
+            - listitem [ref=e210] [cursor=pointer]
+            - listitem [ref=e211] [cursor=pointer]
+            - listitem [ref=e212] [cursor=pointer]
+        - generic [ref=e214]:
+          - link "MORE HIGHLIGHTS" [ref=e218] [cursor=pointer]:
+            - /url: https://www.2gb.com/audio
+          - generic [ref=e221]:
+            - generic [ref=e222]:
+              - generic [ref=e224]:
+                - link "‘Broken promise’ – Treasurer confirms sweeping reforms to property tax" [ref=e226] [cursor=pointer]:
+                  - /url: https://www.2gb.com/broken-promise-treasurer-confirms-sweeping-reforms-to-property-tax/
+                  - img "‘Broken promise’ – Treasurer confirms sweeping reforms to property tax" [ref=e227]
+                - generic [ref=e228]:
+                  - link "‘Broken promise’ – Treasurer confirms sweeping reforms to property tax" [ref=e230] [cursor=pointer]:
+                    - /url: https://www.2gb.com/broken-promise-treasurer-confirms-sweeping-reforms-to-property-tax/
+                  - generic [ref=e232]:
+                    - generic [ref=e233]: Ben Fordham
+                    - generic [ref=e235]: 13 hours ago
+              - generic [ref=e237]:
+                - link "The key takeaways from the 2026 Federal Budget" [ref=e239] [cursor=pointer]:
+                  - /url: https://www.2gb.com/broken-promises-the-key-takeaways-from-the-2026-federal-budget/
+                  - img "The key takeaways from the 2026 Federal Budget" [ref=e240]
+                - generic [ref=e241]:
+                  - link "The key takeaways from the 2026 Federal Budget" [ref=e243] [cursor=pointer]:
+                    - /url: https://www.2gb.com/broken-promises-the-key-takeaways-from-the-2026-federal-budget/
+                  - generic [ref=e245]:
+                    - generic [ref=e246]: Money News 2026 Budget Special
+                    - generic [ref=e248]: 24 hours ago
+              - generic [ref=e250]:
+                - link "‘There’s consequences’ – Mal Lanyon’s message to young teenagers" [ref=e252] [cursor=pointer]:
+                  - /url: https://www.2gb.com/theres-consequences-mal-lanyons-message-to-young-teenagers/
+                  - img "‘There’s consequences’ – Mal Lanyon’s message to young teenagers" [ref=e253]
+                - generic [ref=e254]:
+                  - link "‘There’s consequences’ – Mal Lanyon’s message to young teenagers" [ref=e256] [cursor=pointer]:
+                    - /url: https://www.2gb.com/theres-consequences-mal-lanyons-message-to-young-teenagers/
+                  - generic [ref=e258]:
+                    - generic [ref=e259]: Clinton Maynard
+                    - generic [ref=e261]: 12/05/2026
+              - generic [ref=e263]:
+                - link "Win State of Origin tickets with Blues Clues!" [ref=e265] [cursor=pointer]:
+                  - /url: https://www.2gb.com/competition/win-state-of-origin-tickets-with-blues-clues/
+                  - img "Win State of Origin tickets with Blues Clues!" [ref=e266]
+                - generic [ref=e267]:
+                  - link "Win State of Origin tickets with Blues Clues!" [ref=e269] [cursor=pointer]:
+                    - /url: https://www.2gb.com/competition/win-state-of-origin-tickets-with-blues-clues/
+                  - generic [ref=e271]:
+                    - generic [ref=e272]: Continuous Call Team
+                    - generic [ref=e274]: 12 hours ago
+              - generic [ref=e276]:
+                - link "‘Not the enemy’ – Levy calls out Coalition’s response to One Nation" [ref=e278] [cursor=pointer]:
+                  - /url: https://www.2gb.com/not-the-enemy-levy-calls-out-coalitions-response-to-one-nation/
+                  - img "‘Not the enemy’ – Levy calls out Coalition’s response to One Nation" [ref=e279]
+                - generic [ref=e280]:
+                  - link "‘Not the enemy’ – Levy calls out Coalition’s response to One Nation" [ref=e282] [cursor=pointer]:
+                    - /url: https://www.2gb.com/not-the-enemy-levy-calls-out-coalitions-response-to-one-nation/
+                  - generic [ref=e284]:
+                    - generic [ref=e285]: Mark Levy
+                    - generic [ref=e287]: 13 hours ago
+              - generic [ref=e289]:
+                - link "‘Criminal Airtasker’ – Clinton on the changing crime scene" [ref=e291] [cursor=pointer]:
+                  - /url: https://www.2gb.com/criminal-airtasker-clinton-on-the-changing-crime-scene/
+                  - img "‘Criminal Airtasker’ – Clinton on the changing crime scene" [ref=e292]
+                - generic [ref=e293]:
+                  - link "‘Criminal Airtasker’ – Clinton on the changing crime scene" [ref=e295] [cursor=pointer]:
+                    - /url: https://www.2gb.com/criminal-airtasker-clinton-on-the-changing-crime-scene/
+                  - generic [ref=e297]:
+                    - generic [ref=e298]: Clinton Maynard
+                    - generic [ref=e300]: 12/05/2026
+              - generic [ref=e302]:
+                - link "“Too good to resist” – The opportunity the budget presents for Albanese" [ref=e304] [cursor=pointer]:
+                  - /url: https://www.2gb.com/too-good-to-resist-the-opportunity-the-budget-presents-for-albanese/
+                  - img "“Too good to resist” – The opportunity the budget presents for Albanese" [ref=e305]
+                - generic [ref=e306]:
+                  - link "“Too good to resist” – The opportunity the budget presents for Albanese" [ref=e308] [cursor=pointer]:
+                    - /url: https://www.2gb.com/too-good-to-resist-the-opportunity-the-budget-presents-for-albanese/
+                  - generic [ref=e310]:
+                    - generic [ref=e311]: Michael McLaren
+                    - generic [ref=e313]: 12/05/2026
+              - generic [ref=e315]:
+                - link "‘Life in the slow lane’ – Mayor slammed over 40km/h speed limits" [ref=e317] [cursor=pointer]:
+                  - /url: https://www.2gb.com/life-in-the-slow-lane-mayor-slammed-over-40km-h-speed-limits/
+                  - img "‘Life in the slow lane’ – Mayor slammed over 40km/h speed limits" [ref=e318]
+                - generic [ref=e319]:
+                  - link "‘Life in the slow lane’ – Mayor slammed over 40km/h speed limits" [ref=e321] [cursor=pointer]:
+                    - /url: https://www.2gb.com/life-in-the-slow-lane-mayor-slammed-over-40km-h-speed-limits/
+                  - generic [ref=e323]:
+                    - generic [ref=e324]: Ben Fordham
+                    - generic [ref=e326]: 12/05/2026
+              - generic [ref=e328]:
+                - link "‘Job killer’ – Payroll Tax should be axed in age of Artificial Intelligence" [ref=e330] [cursor=pointer]:
+                  - /url: https://www.2gb.com/job-killer-payroll-tax-should-be-axed-in-age-of-artificial-intelligence/
+                  - img "‘Job killer’ – Payroll Tax should be axed in age of Artificial Intelligence" [ref=e331]
+                - generic [ref=e332]:
+                  - link "‘Job killer’ – Payroll Tax should be axed in age of Artificial Intelligence" [ref=e334] [cursor=pointer]:
+                    - /url: https://www.2gb.com/job-killer-payroll-tax-should-be-axed-in-age-of-artificial-intelligence/
+                  - generic [ref=e336]:
+                    - generic [ref=e337]: Ben Fordham
+                    - generic [ref=e339]: 12/05/2026
+              - generic [ref=e341]:
+                - link "‘Bullsh*t excuse’ – Anika Wells slammed over birthday party scandal" [ref=e343] [cursor=pointer]:
+                  - /url: https://www.2gb.com/bullsht-excuse-anika-wells-slammed-over-birthday-party-scandal/
+                  - img "‘Bullsh*t excuse’ – Anika Wells slammed over birthday party scandal" [ref=e344]
+                - generic [ref=e345]:
+                  - link "‘Bullsh*t excuse’ – Anika Wells slammed over birthday party scandal" [ref=e347] [cursor=pointer]:
+                    - /url: https://www.2gb.com/bullsht-excuse-anika-wells-slammed-over-birthday-party-scandal/
+                  - generic [ref=e349]:
+                    - generic [ref=e350]: Ben Fordham
+                    - generic [ref=e352]: 12/05/2026
+              - generic [ref=e354]:
+                - link "‘Budget preview’ – The key changes Aussies are bracing for" [ref=e356] [cursor=pointer]:
+                  - /url: https://www.2gb.com/budget-preview-the-key-changes-aussies-are-bracing-for/
+                  - img "‘Budget preview’ – The key changes Aussies are bracing for" [ref=e357]
+                - generic [ref=e358]:
+                  - link "‘Budget preview’ – The key changes Aussies are bracing for" [ref=e360] [cursor=pointer]:
+                    - /url: https://www.2gb.com/budget-preview-the-key-changes-aussies-are-bracing-for/
+                  - generic [ref=e362]:
+                    - generic [ref=e363]: Ben Fordham
+                    - generic [ref=e365]: 12/05/2026
+              - generic [ref=e367]:
+                - link "The ‘deeper problem’ facing the Coalition as One Nation support continues to surge" [ref=e369] [cursor=pointer]:
+                  - /url: https://www.2gb.com/the-deeper-problem-facing-the-coalition-as-one-nation-support-continues-to-surge/
+                  - img "The ‘deeper problem’ facing the Coalition as One Nation support continues to surge" [ref=e370]
+                - generic [ref=e371]:
+                  - link "The ‘deeper problem’ facing the Coalition as One Nation support continues to surge" [ref=e373] [cursor=pointer]:
+                    - /url: https://www.2gb.com/the-deeper-problem-facing-the-coalition-as-one-nation-support-continues-to-surge/
+                  - generic [ref=e375]:
+                    - generic [ref=e376]: Clinton Maynard
+                    - generic [ref=e378]: 11/05/2026
+            - link "More Articles" [ref=e380] [cursor=pointer]:
+              - /url: https://www.2gb.com/audio
+              - text: More Articles
+              - img [ref=e382]
+          - iframe [ref=e392]:
+            - generic [active] [ref=f8e1]: https://ad.doubleclick.net/ddm/ad/N9778.1385702GB.COM.AU/B34863711.435863146;sz=300x250;dc_sdk_apis=[APIFRAMEWORKS];dc_omid_p=[OMIDPARTNER];dc_tdv=11699209686
+        - generic [ref=e394]:
+          - generic [ref=e395]: SPORT
+          - generic [ref=e397]:
+            - generic [ref=e399]:
+              - link [ref=e401] [cursor=pointer]:
+                - /url: https://www.2gb.com/cody-ramseys-journey-from-chronic-illness-back-to-the-roosters/
+              - generic [ref=e404]:
+                - link "Cody Ramsey’s journey from chronic illness back to the Roosters" [ref=e406] [cursor=pointer]:
+                  - /url: https://www.2gb.com/cody-ramseys-journey-from-chronic-illness-back-to-the-roosters/
+                - generic [ref=e407]:
+                  - img [ref=e409]
+                  - generic [ref=e413]:
+                    - text: Continuous Call Team /
+                    - generic [ref=e414]: 09/05/2026
+            - generic [ref=e418]:
+              - generic [ref=e419]:
+                - link [ref=e421] [cursor=pointer]:
+                  - /url: https://www.2gb.com/the-bears-are-building-a-team-of-nobodies-and-mal-meninga-thinks-thats-exactly-why-theyll-win/
+                  - img [ref=e422]
+                - generic [ref=e423]:
+                  - heading "The Bears are building a team of “nobodies” – and Mal Meninga thinks that’s exactly why they’ll win" [level=4] [ref=e424]:
+                    - link "The Bears are building a team of “nobodies” – and Mal Meninga thinks that’s exactly why they’ll win" [ref=e425] [cursor=pointer]:
+                      - /url: https://www.2gb.com/the-bears-are-building-a-team-of-nobodies-and-mal-meninga-thinks-thats-exactly-why-theyll-win/
+                  - generic [ref=e426]:
+                    - img [ref=e428]
+                    - generic [ref=e432]:
+                      - text: Continuous Call Team / 09/05/2026
+                      - generic [ref=e433]: 09/05/2026
+              - generic [ref=e434]:
+                - link [ref=e436] [cursor=pointer]:
+                  - /url: https://www.2gb.com/complete-farce-hawsey-and-mg-call-out-over-protection-of-playmakers/
+                  - img [ref=e437]
+                - generic [ref=e438]:
+                  - heading "‘Complete farce’ – Hawsey and MG call out over-protection of playmakers" [level=4] [ref=e439]:
+                    - link "‘Complete farce’ – Hawsey and MG call out over-protection of playmakers" [ref=e440] [cursor=pointer]:
+                      - /url: https://www.2gb.com/complete-farce-hawsey-and-mg-call-out-over-protection-of-playmakers/
+                  - generic [ref=e441]:
+                    - img [ref=e443]
+                    - generic [ref=e447]:
+                      - text: Adam Hawse / 05/05/2026
+                      - generic [ref=e448]: 05/05/2026
+            - link "More SPORT" [ref=e450] [cursor=pointer]:
+              - /url: https://www.2gb.com/category/sport/
+              - text: More SPORT
+              - img [ref=e452]
+        - generic [ref=e456]:
+          - generic [ref=e458]: OUR NETWORKS
+          - generic [ref=e460]:
+            - button "Previous" [disabled] [ref=e461]
+            - listbox [ref=e463]:
+              - option [ref=e464]:
+                - link [ref=e465] [cursor=pointer]:
+                  - /url: http://www.2gb.com.au/
+                  - img [ref=e466]
+              - option [ref=e467]:
+                - link [ref=e468] [cursor=pointer]:
+                  - /url: http://www.3aw.com.au/
+                  - img [ref=e469]
+              - option [ref=e470]:
+                - link [ref=e471] [cursor=pointer]:
+                  - /url: http://www.4bc.com.au/
+                  - img [ref=e472]
+              - option [ref=e473]:
+                - link [ref=e474] [cursor=pointer]:
+                  - /url: http://www.6pr.com.au/
+                  - img [ref=e475]
+            - button "Next" [ref=e476] [cursor=pointer]
+      - generic [ref=e480]:
+        - generic [ref=e481] [cursor=pointer]:
+          - generic [ref=e482]: 131 873
+          - link [ref=e484]:
+            - /url: tel:131%20873
+            - img [ref=e486]
+        - generic [ref=e488] [cursor=pointer]:
+          - generic [ref=e489]: FEEDBACK
+          - img [ref=e492]
+      - contentinfo [ref=e494]:
+        - generic [ref=e496]:
+          - generic [ref=e497]:
+            - link "2GB" [ref=e499] [cursor=pointer]:
+              - /url: https://www.2gb.com
+              - img "2GB" [ref=e500]
+            - generic:
+              - paragraph
+          - generic [ref=e501]:
+            - generic [ref=e502]:
+              - generic [ref=e504]:
+                - generic [ref=e505]:
+                  - heading "QUICK LINKS" [level=3] [ref=e506]
+                  - navigation [ref=e507]:
+                    - list [ref=e508]:
+                      - listitem [ref=e509]:
+                        - link "Shows" [ref=e510] [cursor=pointer]:
+                          - /url: https://www.2gb.com/shows/
+                      - listitem [ref=e511]:
+                        - link "Audio" [ref=e512] [cursor=pointer]:
+                          - /url: https://www.2gb.com/audio/
+                      - listitem [ref=e513]:
+                        - link "Competitions" [ref=e514] [cursor=pointer]:
+                          - /url: https://www.2gb.com/competitions/
+                      - listitem [ref=e515]:
+                        - link "Sports" [ref=e516] [cursor=pointer]:
+                          - /url: https://www.2gb.com/category/sport/
+                      - listitem [ref=e517]:
+                        - link "Rugby League" [ref=e518] [cursor=pointer]:
+                          - /url: https://www.2gb.com/rugby-league/
+                - generic [ref=e519]:
+                  - heading "NEWS" [level=3] [ref=e520]
+                  - navigation [ref=e521]:
+                    - list [ref=e522]:
+                      - listitem [ref=e523]:
+                        - link "All News" [ref=e524] [cursor=pointer]:
+                          - /url: https://www.2gb.com/audio/
+                      - listitem [ref=e525]:
+                        - link "News" [ref=e526] [cursor=pointer]:
+                          - /url: https://www.2gb.com/category/news/
+                      - listitem [ref=e527]:
+                        - link "Sports" [ref=e528] [cursor=pointer]:
+                          - /url: https://www.2gb.com/category/sport/
+                      - listitem [ref=e529]:
+                        - link "Money" [ref=e530] [cursor=pointer]:
+                          - /url: https://www.2gb.com/category/money/
+                      - listitem [ref=e531]:
+                        - link "Lifestyle" [ref=e532] [cursor=pointer]:
+                          - /url: https://www.2gb.com/category/lifestyle/
+              - generic [ref=e534]:
+                - heading "Join the conversation" [level=3] [ref=e535]
+                - navigation [ref=e536]:
+                  - list [ref=e537]:
+                    - listitem [ref=e538]:
+                      - link "Follow us on Facebook" [ref=e539] [cursor=pointer]:
+                        - /url: http://facebook.com/2GBSydney/
+                        - img [ref=e541]
+                        - text: Follow us on Facebook
+                    - listitem [ref=e544]:
+                      - link "Follow us on Twitter" [ref=e545] [cursor=pointer]:
+                        - /url: https://twitter.com/2GB873
+                        - img [ref=e547]
+                        - text: Follow us on Twitter
+                    - listitem [ref=e550]:
+                      - link "Keep up to date on YouTube" [ref=e551] [cursor=pointer]:
+                        - /url: https://www.youtube.com/@2GBSydney
+                        - img [ref=e553]
+                        - text: Keep up to date on YouTube
+            - generic [ref=e555]:
+              - heading "Get the app on your phone" [level=3] [ref=e556]
+              - list [ref=e558]:
+                - listitem [ref=e559]:
+                  - link "2GB IOS App Link" [ref=e560] [cursor=pointer]:
+                    - /url: https://itunes.apple.com/au/app/2gb/id403184432
+                    - img "2GB IOS App Link" [ref=e561]
+                - listitem [ref=e562]:
+                  - link "2GB Android App Link" [ref=e563] [cursor=pointer]:
+                    - /url: https://play.google.com/store/apps/details?id=com.jbm.macq.kony.twogb&hl=en
+                    - img "2GB Android App Link" [ref=e564]
+        - generic [ref=e567]:
+          - generic [ref=e569]: © Copyright Tapt Media 2026
+          - navigation [ref=e571]:
+            - list [ref=e572]:
+              - listitem [ref=e573]:
+                - link "Advertise with us" [ref=e574] [cursor=pointer]:
+                  - /url: https://www.2gb.com/advertise-with-us/
+              - listitem [ref=e575]:
+                - text: ⁄
+                - link "Commercial Agreements" [ref=e576] [cursor=pointer]:
+                  - /url: https://www.2gb.com/commercial-agreements/
+              - listitem [ref=e577]:
+                - text: ⁄
+                - link "Privacy Policy" [ref=e578] [cursor=pointer]:
+                  - /url: https://login.taptmedia.com.au/privacy?client_id=2gb
+              - listitem [ref=e579]:
+                - text: ⁄
+                - link "Support" [ref=e580] [cursor=pointer]:
+                  - /url: https://www.2gb.com/support/
+              - listitem [ref=e581]:
+                - text: ⁄
+                - link "Complaints" [ref=e582] [cursor=pointer]:
+                  - /url: https://www.2gb.com/listener-complaints/
+  - img

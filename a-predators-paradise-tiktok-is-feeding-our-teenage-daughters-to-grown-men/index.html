@@ -66,7 +66,9 @@
       markLevy:    { name:'Mornings with Mark Levy',         href:'https://www.2gb.com/show/morning-show/',               img:'https://www.2gb.com/wp-content/uploads/sites/2/2016/12/2GB_MorningsMarkLevy_408x408_HostThumbnail.png' },
       mclaren:     { name:'Afternoons with Michael McLaren', href:'https://www.2gb.com/show/2gb-afternoons/',             img:'https://www.2gb.com/wp-content/uploads/sites/2/2025/04/2GB_AfternoonsMichaelMcLaren_408x408_MainPresenterImage.png' },
       maynard:     { name:'Sydney Now with Clinton Maynard', href:'https://www.2gb.com/show/2gb-drive/',                  img:'https://www.2gb.com/wp-content/uploads/sites/2/2020/07/2GB_ClintonMaynard_408x408_MainPresenterImage.png' },
-      hawse:       { name:'Sports Today with Adam Hawse',    href:'https://www.2gb.com/show/wide-world-of-sports/',       img:'https://www.2gb.com/wp-content/uploads/sites/2/2025/04/2GB_WWOSAdamHawse_408x408_MainPresenterImage.png' }
+      hawse:       { name:'Sports Today with Adam Hawse',    href:'https://www.2gb.com/show/wide-world-of-sports/',       img:'https://www.2gb.com/wp-content/uploads/sites/2/2025/04/2GB_WWOSAdamHawse_408x408_MainPresenterImage.png' },
+      moneyNews:   { name:'Money News with James Willis',    href:'https://www.2gb.com/show/money-news/',                 img:'https://www.2gb.com/wp-content/uploads/sites/2/2016/12/Untitled-design-2-1.png' },
+      nights:      { name:'Nights with John Stanley',        href:'https://www.2gb.com/show/nights/',                     img:'https://www.2gb.com/wp-content/uploads/sites/2/2016/12/JohnStanley-408.png' }
     };
     function currentShow(){
       var fmt = new Intl.DateTimeFormat('en-AU', { timeZone:'Australia/Sydney', weekday:'short', hour:'2-digit', minute:'2-digit', hour12:false });
@@ -82,7 +84,9 @@
       if (tm < 12*60)         return shows.markLevy;
       if (tm < 15*60)         return shows.mclaren;
       if (tm < 18*60)         return shows.maynard;
-      if (tm < 22*60)         return shows.hawse;
+      if (tm < 19*60)         return shows.hawse;
+      if (tm < 20*60)         return shows.moneyNews;
+      if (tm < 24*60)         return shows.nights;
       return shows.overnights;
     }
     var show = currentShow();
@@ -97,7 +101,13 @@
       for (var i=0; i<spans.length; i++){
         var c = spans[i].className || '';
         if (typeof c === 'string' && c.indexOf('text-[13px]') !== -1) {
-          spans[i].textContent = show.name.toUpperCase();
+          // Render as a scrolling marquee like real 2gb.com (uses HTML <marquee>)
+          // Constrain wrapper so long names scroll instead of wrapping
+          spans[i].style.display = 'block';
+          spans[i].style.overflow = 'hidden';
+          spans[i].style.maxWidth = '170px';
+          spans[i].style.whiteSpace = 'nowrap';
+          spans[i].innerHTML = '<marquee behavior="scroll" direction="left" scrollamount="3" style="display:inline-block">' + show.name.toUpperCase() + '</marquee>';
           break;
         }
       }
