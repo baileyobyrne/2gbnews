@@ -37,7 +37,7 @@
     // ---- find the "Hear more highlights from Ben Fordham Live" paragraph and append real iframes after it ----
     var hearMore = null;
     document.querySelectorAll('p, strong').forEach(function(el){
-      if (!hearMore && /hear more highlights/i.test(el.textContent)) hearMore = el;
+      if (!hearMore && /hear more on this|playlist below|give us a follow/i.test(el.textContent)) hearMore = el;
     });
     if (hearMore) {
       // climb up to a paragraph-level container so we insert at the right depth
