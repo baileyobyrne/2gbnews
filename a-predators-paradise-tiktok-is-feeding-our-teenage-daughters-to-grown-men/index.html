@@ -34,6 +34,12 @@
       'div.bg-black.text-white{display:none!important}'+
       '/* Hide subscribe-style cards by descendant text not feasible in CSS — handled via JS below */';
     document.head.appendChild(styleEl);
+    // Hide the old podcast-wrapper card (mt-6 space-y-6 containing 'Ben Fordham Full Show')
+    Array.from(document.querySelectorAll('div.mt-6.space-y-6')).forEach(function(el){
+      if (el.textContent.includes('Ben Fordham Full Show') || el.textContent.includes('Listen on Apple Podcasts')) {
+        el.style.display = 'none';
+      }
+    });
     // ---- find the "Hear more highlights from Ben Fordham Live" paragraph and append real iframes after it ----
     var hearMore = null;
     document.querySelectorAll('p, strong').forEach(function(el){
