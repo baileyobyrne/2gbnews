@@ -105,8 +105,8 @@
 
     // ---- Replace 'SHARE THIS ARTICLE' label → 'SHARE ARTICLE' to match real 2gb.com ----
     document.querySelectorAll('*').forEach(function(el){
-      if (el.children.length === 0 && el.textContent.trim() === 'SHARE THIS ARTICLE') {
-        el.textContent = 'SHARE ARTICLE';
+      if (el.children.length === 0 && /^share this article$/i.test(el.textContent.trim())) {
+        el.textContent = 'Share article';
       }
     });
 
