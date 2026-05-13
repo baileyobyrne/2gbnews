@@ -61,14 +61,17 @@
 
     // ---- Dynamic 'On Air Now' component based on Sydney time ----
     var shows = {
-      overnights: { name:'Overnights with Mike Jeffreys', href:'https://www.2gb.com/show/overnights-with-mike-jeffreys/', img:'https://www.2gb.com/wp-content/uploads/sites/2/2025/04/2GB_OvernightMikeJeffreys_408x408_MainPresenterImage-1.png' },
-      benFordham:  { name:'Ben Fordham Live',                href:'https://www.2gb.com/show/ben-fordham-live/',           img:'https://www.2gb.com/wp-content/uploads/sites/2/2020/05/2GB_BenFordhamLive_408x408_MainPresenterImage.png' },
-      markLevy:    { name:'Mornings with Mark Levy',         href:'https://www.2gb.com/show/morning-show/',               img:'https://www.2gb.com/wp-content/uploads/sites/2/2016/12/2GB_MorningsMarkLevy_408x408_HostThumbnail.png' },
-      mclaren:     { name:'Afternoons with Michael McLaren', href:'https://www.2gb.com/show/2gb-afternoons/',             img:'https://www.2gb.com/wp-content/uploads/sites/2/2025/04/2GB_AfternoonsMichaelMcLaren_408x408_MainPresenterImage.png' },
-      maynard:     { name:'Sydney Now with Clinton Maynard', href:'https://www.2gb.com/show/2gb-drive/',                  img:'https://www.2gb.com/wp-content/uploads/sites/2/2020/07/2GB_ClintonMaynard_408x408_MainPresenterImage.png' },
-      hawse:       { name:'Sports Today with Adam Hawse',    href:'https://www.2gb.com/show/wide-world-of-sports/',       img:'https://www.2gb.com/wp-content/uploads/sites/2/2025/04/2GB_WWOSAdamHawse_408x408_MainPresenterImage.png' },
-      moneyNews:   { name:'Money News with James Willis',    href:'https://www.2gb.com/show/money-news/',                 img:'https://www.2gb.com/wp-content/uploads/sites/2/2016/12/Untitled-design-2-1.png' },
-      nights:      { name:'Nights with John Stanley',        href:'https://www.2gb.com/show/nights/',                     img:'https://www.2gb.com/wp-content/uploads/sites/2/2016/12/JohnStanley-408.png' }
+      mikeJeffreys: { name:"Overnights with Mike Jeffreys",  href:'https://www.2gb.com/show/overnights-with-mike-jeffreys/', img:'https://www.2gb.com/wp-content/uploads/sites/2/2025/04/2GB_OvernightMikeJeffreys_408x408_MainPresenterImage-1.png' },
+      philONeil:    { name:"Overnights with Phil O’Neil",  href:'https://www.2gb.com/show/overnights-with-phil-oneil/',    img:'https://www.2gb.com/wp-content/uploads/sites/2/2016/12/PhilONeil-Thumbnail-450x300.png' },
+      benFordham:   { name:"Ben Fordham Live",                href:'https://www.2gb.com/show/ben-fordham-live/',              img:'https://www.2gb.com/wp-content/uploads/sites/2/2020/05/2GB_BenFordhamLive_408x408_MainPresenterImage.png' },
+      markLevy:     { name:"Mornings with Mark Levy",         href:'https://www.2gb.com/show/morning-show/',                  img:'https://www.2gb.com/wp-content/uploads/sites/2/2016/12/2GB_MorningsMarkLevy_408x408_HostThumbnail.png' },
+      mclaren:      { name:"Afternoons with Michael McLaren", href:'https://www.2gb.com/show/2gb-afternoons/',                img:'https://www.2gb.com/wp-content/uploads/sites/2/2025/04/2GB_AfternoonsMichaelMcLaren_408x408_MainPresenterImage.png' },
+      maynard:      { name:"Sydney Now with Clinton Maynard", href:'https://www.2gb.com/show/2gb-drive/',                     img:'https://www.2gb.com/wp-content/uploads/sites/2/2020/07/2GB_ClintonMaynard_408x408_MainPresenterImage.png' },
+      hawse:        { name:"Sports Today with Adam Hawse",    href:'https://www.2gb.com/show/wide-world-of-sports/',          img:'https://www.2gb.com/wp-content/uploads/sites/2/2025/04/2GB_WWOSAdamHawse_408x408_MainPresenterImage.png' },
+      moneyNews:    { name:"Money News with James Willis",    href:'https://www.2gb.com/show/money-news/',                    img:'https://www.2gb.com/wp-content/uploads/sites/2/2016/12/Untitled-design-2-1.png' },
+      nights:       { name:"Nights with John Stanley",        href:'https://www.2gb.com/show/nights-with-john-stanley/',      img:'https://www.2gb.com/wp-content/uploads/sites/2/2016/12/JohnStanley-408.png' },
+      cct:          { name:"The Continuous Call Team",        href:'https://www.2gb.com/show/the-continuous-call-team/',      img:'https://www.2gb.com/wp-content/uploads/sites/2/2025/04/2GB_CCT_1280x800_HostThumbnail-450x300.png' },
+      bestOfBen:    { name:"The Best of Ben Fordham",         href:'https://www.2gb.com/show/the-best-of-ben-fordham/',       img:'https://www.2gb.com/wp-content/uploads/sites/2/2020/05/Untitled-design-6-408x300.png' }
     };
     function currentShow(){
       var fmt = new Intl.DateTimeFormat('en-AU', { timeZone:'Australia/Sydney', weekday:'short', hour:'2-digit', minute:'2-digit', hour12:false });
@@ -77,17 +80,32 @@
       var hh  = parseInt((parts.find(function(p){return p.type==='hour';})  ||{}).value || '0',10);
       var mm  = parseInt((parts.find(function(p){return p.type==='minute';})||{}).value || '0',10);
       var tm  = hh*60 + mm;
-      var isWk = ['Mon','Tue','Wed','Thu','Fri'].indexOf(day) >= 0;
-      if (!isWk)              return shows.overnights;
-      if (tm <  5*60+30)      return shows.overnights;
-      if (tm <  9*60)         return shows.benFordham;
-      if (tm < 12*60)         return shows.markLevy;
-      if (tm < 15*60)         return shows.mclaren;
-      if (tm < 18*60)         return shows.maynard;
-      if (tm < 19*60)         return shows.hawse;
-      if (tm < 20*60)         return shows.moneyNews;
-      if (tm < 24*60)         return shows.nights;
-      return shows.overnights;
+      // Schedule sourced from https://www.2gb.com/shows/
+      // ---- Overnight 12:00am - 5:30am ----
+      if (tm < 5*60+30) {
+        if (day === 'Mon')                                  return shows.mikeJeffreys;        // Mon overnight only
+        if (['Tue','Wed','Thu','Fri'].indexOf(day) >= 0)    return shows.philONeil;            // Tue-Fri overnight
+        return shows.mikeJeffreys;                                                              // Sat/Sun fallback
+      }
+      // ---- Weekday daytime ----
+      if (['Mon','Tue','Wed','Thu','Fri'].indexOf(day) >= 0) {
+        if (tm <  9*60)  return shows.benFordham;       // Mon-Fri  5:30am - 9:00am
+        if (tm < 12*60)  return shows.markLevy;         // Mon-Fri  9:00am - 12:00pm
+        if (tm < 15*60)  return shows.mclaren;          // Mon-Fri 12:00pm - 3:00pm
+        if (tm < 18*60)  return shows.maynard;          // Mon-Fri  3:00pm - 6:00pm
+        if (tm < 19*60)  return shows.hawse;            // Mon-Fri  6:00pm - 7:00pm
+        // Evening
+        if (day === 'Fri') {
+          if (tm < 23*60) return shows.cct;             // Fri  7:00pm - 11:00pm
+          return shows.bestOfBen;                       // Fri 11:00pm - 12:00am
+        }
+        if (tm < 20*60)  return shows.moneyNews;        // Mon-Thu 7:00pm - 8:00pm
+        return shows.nights;                            // Mon-Thu 8:00pm - 12:00am
+      }
+      // ---- Weekend ----
+      if (day === 'Sat' && tm >= 13*60 && tm < 22*60)    return shows.cct;   // Sat 1pm-10pm
+      if (day === 'Sun' && tm >= 13*60 && tm < 18*60)    return shows.cct;   // Sun 1pm-6pm
+      return shows.mikeJeffreys;
     }
     var show = currentShow();
     document.querySelectorAll('a[href*="/show/"]').forEach(function(a){

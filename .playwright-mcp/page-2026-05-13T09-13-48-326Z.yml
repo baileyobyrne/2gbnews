@@ -1,0 +1,401 @@
+- generic [active] [ref=e1]:
+  - img [ref=e3]
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - link "2GB" [ref=e9] [cursor=pointer]:
+          - /url: https://www.2gb.com/
+          - img "2GB" [ref=e10]
+        - generic [ref=e14]:
+          - navigation [ref=e15]:
+            - list [ref=e16]:
+              - listitem [ref=e17]:
+                - link "Shows" [ref=e18] [cursor=pointer]:
+                  - /url: https://www.2gb.com/shows/
+              - listitem [ref=e19]:
+                - link "Audio" [ref=e20] [cursor=pointer]:
+                  - /url: https://www.2gb.com/latest-audio/
+              - listitem [ref=e21]:
+                - link "Win" [ref=e22] [cursor=pointer]:
+                  - /url: https://www.2gb.com/competitions/
+              - listitem [ref=e23]:
+                - link "NRL" [ref=e24] [cursor=pointer]:
+                  - /url: https://www.2gb.com/rugby-league/
+              - listitem [ref=e25]:
+                - link "Money" [ref=e26] [cursor=pointer]:
+                  - /url: https://www.2gb.com/money/
+              - listitem [ref=e27]:
+                - link "Advertise" [ref=e28] [cursor=pointer]:
+                  - /url: https://www.2gb.com/advertise-with-us/
+          - navigation [ref=e29]:
+            - list [ref=e30]:
+              - listitem [ref=e31]:
+                - link "Login | Register" [ref=e33] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e34]:
+                - link "MENU" [ref=e35] [cursor=pointer]:
+                  - /url: "#"
+                  - strong [ref=e42]: MENU
+      - generic [ref=e44]:
+        - generic [ref=e46] [cursor=pointer]:
+          - img [ref=e49]
+          - generic [ref=e51]: LISTEN
+        - img [ref=e55] [cursor=pointer]
+        - link [ref=e66] [cursor=pointer]:
+          - /url: https://www.2gb.com/show/money-news/
+          - img [ref=e67]
+        - generic [ref=e70]:
+          - generic [ref=e71]: on air now
+          - link "Money News with James Willis" [ref=e73] [cursor=pointer]:
+            - /url: https://www.2gb.com/show/money-news/
+            - generic [ref=e74]: Money News with James Willis
+        - generic [ref=e75]:
+          - generic [ref=e77]:
+            - img [ref=e79]
+            - paragraph [ref=e82]: Latest News
+          - link "131 873" [ref=e84] [cursor=pointer]:
+            - /url: tel:131%20873
+            - img [ref=e86]
+            - paragraph [ref=e88]: 131 873
+          - generic [ref=e90]:
+            - img [ref=e92]
+            - paragraph [ref=e94]: FEEDBACK
+    - generic [ref=e95]:
+      - generic [ref=e101]:
+        - iframe [ref=e109]:
+          - generic [active] [ref=f9e1]:
+            - generic [ref=f9e4]:
+              - link [ref=f9e5] [cursor=pointer]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ClRDjykAEar-TO4TjjMwPwb3AoAXs_4XdhgHzw9aA4BWXnZOV9EEQASDe8J9eYKX4kYCQAaAB3NqHuSrIAQmpAudw-FroRqg-4AIAqAMByAMKqgT3AU_Q2z94r-Zyn_aQbs8rwAL1FEmvwwtTEQs0LCtrpy4qC71bC01xe5SoiMYVOpIZkITVDo0Favls3CH5G7sxRVu2JOZrdcajTUh6iZ7QkOwi0yhCWpfkqBFucxdS4sW8ULVNd-FuVaRDp65khY2LhPfx1-OgiCEVC6DPCQv0yDoKQVZQtlG6TPBhYVNZbxv_f6gwRY1qsjfCzAEBHgetDv_MSHMenL6QTa_ffS2h4iRLXheFgjHA7PYpEPA622NVz_8KB3cn41bl7Lomt8DAVx7iJCryLYFZCCP4OsxAjr4VOMA4rVuKGi0Gn55-M6yAGUAMwnobanLABIvE_sPcBeAEAYgFroze01igBi6AB9yS2JgFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggxCIBhEAEYnQEyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOljvx42t9rWUA7EJhv41pmr0QVmACgOYCwHICwGADAGqDQJBVcgNAeINEwjK-46t9rWUAxWEMYMDHcEeEFTqDRMIuPyPrfa1lAMVhDGDAx3BHhBU8A0CiA7___________8B2BMN0BUByhYCCgD4FgGAFwGyFxAYASoKMTEyNTYzNjg0NlAGuhcCOAGqGBcJAQAAAHSGTkESCjExMjU2MzY4NDYYAbIYCRIC4k4YLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIv6Ckrfa1lAMVhDGDAx3BHhBUEAEYASAAEgIvTfD_BwE&num=1&cid=CAQS0QEABaugfUEnLoR4_Eedj7gA01HzkAJIQQPmYOsJtcqMJCY8GtTW5VfDGtaryF-xngeAQNgCcolecTQhD-fA6iSxr-sBwQNK3rbqOfvf3Z5vOYsq8H2g7dDhf-qMcSNTWVSiW-37KdrSVjJLKjlAI083xKstgy6y4Ev4Dp_SU9Y9pU-iTWLQ-p1TyHrJGoTAAvTDb4le9yxq4uyGY9TEXTI2Bqc5rRrixRUPHLkuYxMumSgA2dqH6bMXhyoBHRIQpvtFiPfMCKGNCq_kXj70K_JoFBgB&sig=AOD64_1qTIj3R9c4AhelT8VMbDkB6drJFw&client=ca-pub-4865685300463942&rf=4&nb=9&adurl=https://www.lovecentralcoast.com/harvestfestival%3Futm_term%3D%26utm_campaign%3DLEO_LCC_AO_AUTUMN_DISPLAY%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D4957075698%26hsa_cam%3D23797925422%26hsa_grp%3D196637336075%26hsa_ad%3D806848671005%26hsa_src%3Dd%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D23797925422%26gclid%3DEAIaIQobChMIv6Ckrfa1lAMVhDGDAx3BHhBUEAEYASAAEgIvTfD_BwE
+                - img [ref=f9e6]
+              - generic [ref=f9e8]:
+                - generic [ref=f9e11]:
+                  - link "Harvest Festival 2026" [ref=f9e14] [cursor=pointer]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ClRDjykAEar-TO4TjjMwPwb3AoAXs_4XdhgHzw9aA4BWXnZOV9EEQASDe8J9eYKX4kYCQAaAB3NqHuSrIAQmpAudw-FroRqg-4AIAqAMByAMKqgT3AU_Q2z94r-Zyn_aQbs8rwAL1FEmvwwtTEQs0LCtrpy4qC71bC01xe5SoiMYVOpIZkITVDo0Favls3CH5G7sxRVu2JOZrdcajTUh6iZ7QkOwi0yhCWpfkqBFucxdS4sW8ULVNd-FuVaRDp65khY2LhPfx1-OgiCEVC6DPCQv0yDoKQVZQtlG6TPBhYVNZbxv_f6gwRY1qsjfCzAEBHgetDv_MSHMenL6QTa_ffS2h4iRLXheFgjHA7PYpEPA622NVz_8KB3cn41bl7Lomt8DAVx7iJCryLYFZCCP4OsxAjr4VOMA4rVuKGi0Gn55-M6yAGUAMwnobanLABIvE_sPcBeAEAYgFroze01igBi6AB9yS2JgFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggxCIBhEAEYnQEyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOljvx42t9rWUA7EJhv41pmr0QVmACgOYCwHICwGADAGqDQJBVcgNAeINEwjK-46t9rWUAxWEMYMDHcEeEFTqDRMIuPyPrfa1lAMVhDGDAx3BHhBU8A0CiA7___________8B2BMN0BUByhYCCgD4FgGAFwGyFxAYASoKMTEyNTYzNjg0NlAGuhcCOAGqGBcJAQAAAHSGTkESCjExMjU2MzY4NDYYAbIYCRIC4k4YLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIv6Ckrfa1lAMVhDGDAx3BHhBUEAEYASAAEgIvTfD_BwE&num=1&cid=CAQS0QEABaugfUEnLoR4_Eedj7gA01HzkAJIQQPmYOsJtcqMJCY8GtTW5VfDGtaryF-xngeAQNgCcolecTQhD-fA6iSxr-sBwQNK3rbqOfvf3Z5vOYsq8H2g7dDhf-qMcSNTWVSiW-37KdrSVjJLKjlAI083xKstgy6y4Ev4Dp_SU9Y9pU-iTWLQ-p1TyHrJGoTAAvTDb4le9yxq4uyGY9TEXTI2Bqc5rRrixRUPHLkuYxMumSgA2dqH6bMXhyoBHRIQpvtFiPfMCKGNCq_kXj70K_JoFBgB&sig=AOD64_1qTIj3R9c4AhelT8VMbDkB6drJFw&client=ca-pub-4865685300463942&rf=4&nb=0&adurl=https://www.lovecentralcoast.com/harvestfestival%3Futm_term%3D%26utm_campaign%3DLEO_LCC_AO_AUTUMN_DISPLAY%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D4957075698%26hsa_cam%3D23797925422%26hsa_grp%3D196637336075%26hsa_ad%3D806848671005%26hsa_src%3Dd%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D23797925422%26gclid%3DEAIaIQobChMIv6Ckrfa1lAMVhDGDAx3BHhBUEAEYASAAEgIvTfD_BwE
+                  - link "From daytime harvest experiences to unforgettable nights under the stars" [ref=f9e17] [cursor=pointer]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ClRDjykAEar-TO4TjjMwPwb3AoAXs_4XdhgHzw9aA4BWXnZOV9EEQASDe8J9eYKX4kYCQAaAB3NqHuSrIAQmpAudw-FroRqg-4AIAqAMByAMKqgT3AU_Q2z94r-Zyn_aQbs8rwAL1FEmvwwtTEQs0LCtrpy4qC71bC01xe5SoiMYVOpIZkITVDo0Favls3CH5G7sxRVu2JOZrdcajTUh6iZ7QkOwi0yhCWpfkqBFucxdS4sW8ULVNd-FuVaRDp65khY2LhPfx1-OgiCEVC6DPCQv0yDoKQVZQtlG6TPBhYVNZbxv_f6gwRY1qsjfCzAEBHgetDv_MSHMenL6QTa_ffS2h4iRLXheFgjHA7PYpEPA622NVz_8KB3cn41bl7Lomt8DAVx7iJCryLYFZCCP4OsxAjr4VOMA4rVuKGi0Gn55-M6yAGUAMwnobanLABIvE_sPcBeAEAYgFroze01igBi6AB9yS2JgFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggxCIBhEAEYnQEyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOljvx42t9rWUA7EJhv41pmr0QVmACgOYCwHICwGADAGqDQJBVcgNAeINEwjK-46t9rWUAxWEMYMDHcEeEFTqDRMIuPyPrfa1lAMVhDGDAx3BHhBU8A0CiA7___________8B2BMN0BUByhYCCgD4FgGAFwGyFxAYASoKMTEyNTYzNjg0NlAGuhcCOAGqGBcJAQAAAHSGTkESCjExMjU2MzY4NDYYAbIYCRIC4k4YLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIv6Ckrfa1lAMVhDGDAx3BHhBUEAEYASAAEgIvTfD_BwE&num=1&cid=CAQS0QEABaugfUEnLoR4_Eedj7gA01HzkAJIQQPmYOsJtcqMJCY8GtTW5VfDGtaryF-xngeAQNgCcolecTQhD-fA6iSxr-sBwQNK3rbqOfvf3Z5vOYsq8H2g7dDhf-qMcSNTWVSiW-37KdrSVjJLKjlAI083xKstgy6y4Ev4Dp_SU9Y9pU-iTWLQ-p1TyHrJGoTAAvTDb4le9yxq4uyGY9TEXTI2Bqc5rRrixRUPHLkuYxMumSgA2dqH6bMXhyoBHRIQpvtFiPfMCKGNCq_kXj70K_JoFBgB&sig=AOD64_1qTIj3R9c4AhelT8VMbDkB6drJFw&client=ca-pub-4865685300463942&rf=4&nb=7&adurl=https://www.lovecentralcoast.com/harvestfestival%3Futm_term%3D%26utm_campaign%3DLEO_LCC_AO_AUTUMN_DISPLAY%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D4957075698%26hsa_cam%3D23797925422%26hsa_grp%3D196637336075%26hsa_ad%3D806848671005%26hsa_src%3Dd%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D23797925422%26gclid%3DEAIaIQobChMIv6Ckrfa1lAMVhDGDAx3BHhBUEAEYASAAEgIvTfD_BwE
+                    - text: From daytime harvest experiences to unforgettable
+                    - text: nights under the stars
+                - generic [ref=f9e20]:
+                  - link:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ClRDjykAEar-TO4TjjMwPwb3AoAXs_4XdhgHzw9aA4BWXnZOV9EEQASDe8J9eYKX4kYCQAaAB3NqHuSrIAQmpAudw-FroRqg-4AIAqAMByAMKqgT3AU_Q2z94r-Zyn_aQbs8rwAL1FEmvwwtTEQs0LCtrpy4qC71bC01xe5SoiMYVOpIZkITVDo0Favls3CH5G7sxRVu2JOZrdcajTUh6iZ7QkOwi0yhCWpfkqBFucxdS4sW8ULVNd-FuVaRDp65khY2LhPfx1-OgiCEVC6DPCQv0yDoKQVZQtlG6TPBhYVNZbxv_f6gwRY1qsjfCzAEBHgetDv_MSHMenL6QTa_ffS2h4iRLXheFgjHA7PYpEPA622NVz_8KB3cn41bl7Lomt8DAVx7iJCryLYFZCCP4OsxAjr4VOMA4rVuKGi0Gn55-M6yAGUAMwnobanLABIvE_sPcBeAEAYgFroze01igBi6AB9yS2JgFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggxCIBhEAEYnQEyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOljvx42t9rWUA7EJhv41pmr0QVmACgOYCwHICwGADAGqDQJBVcgNAeINEwjK-46t9rWUAxWEMYMDHcEeEFTqDRMIuPyPrfa1lAMVhDGDAx3BHhBU8A0CiA7___________8B2BMN0BUByhYCCgD4FgGAFwGyFxAYASoKMTEyNTYzNjg0NlAGuhcCOAGqGBcJAQAAAHSGTkESCjExMjU2MzY4NDYYAbIYCRIC4k4YLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIv6Ckrfa1lAMVhDGDAx3BHhBUEAEYASAAEgIvTfD_BwE&num=1&cid=CAQS0QEABaugfUEnLoR4_Eedj7gA01HzkAJIQQPmYOsJtcqMJCY8GtTW5VfDGtaryF-xngeAQNgCcolecTQhD-fA6iSxr-sBwQNK3rbqOfvf3Z5vOYsq8H2g7dDhf-qMcSNTWVSiW-37KdrSVjJLKjlAI083xKstgy6y4Ev4Dp_SU9Y9pU-iTWLQ-p1TyHrJGoTAAvTDb4le9yxq4uyGY9TEXTI2Bqc5rRrixRUPHLkuYxMumSgA2dqH6bMXhyoBHRIQpvtFiPfMCKGNCq_kXj70K_JoFBgB&sig=AOD64_1qTIj3R9c4AhelT8VMbDkB6drJFw&client=ca-pub-4865685300463942&rf=4&nb=8&adurl=https://www.lovecentralcoast.com/harvestfestival%3Futm_term%3D%26utm_campaign%3DLEO_LCC_AO_AUTUMN_DISPLAY%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D4957075698%26hsa_cam%3D23797925422%26hsa_grp%3D196637336075%26hsa_ad%3D806848671005%26hsa_src%3Dd%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D23797925422%26gclid%3DEAIaIQobChMIv6Ckrfa1lAMVhDGDAx3BHhBUEAEYASAAEgIvTfD_BwE
+                  - link "Love Central Coast" [ref=f9e22] [cursor=pointer]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ClRDjykAEar-TO4TjjMwPwb3AoAXs_4XdhgHzw9aA4BWXnZOV9EEQASDe8J9eYKX4kYCQAaAB3NqHuSrIAQmpAudw-FroRqg-4AIAqAMByAMKqgT3AU_Q2z94r-Zyn_aQbs8rwAL1FEmvwwtTEQs0LCtrpy4qC71bC01xe5SoiMYVOpIZkITVDo0Favls3CH5G7sxRVu2JOZrdcajTUh6iZ7QkOwi0yhCWpfkqBFucxdS4sW8ULVNd-FuVaRDp65khY2LhPfx1-OgiCEVC6DPCQv0yDoKQVZQtlG6TPBhYVNZbxv_f6gwRY1qsjfCzAEBHgetDv_MSHMenL6QTa_ffS2h4iRLXheFgjHA7PYpEPA622NVz_8KB3cn41bl7Lomt8DAVx7iJCryLYFZCCP4OsxAjr4VOMA4rVuKGi0Gn55-M6yAGUAMwnobanLABIvE_sPcBeAEAYgFroze01igBi6AB9yS2JgFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggxCIBhEAEYnQEyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOljvx42t9rWUA7EJhv41pmr0QVmACgOYCwHICwGADAGqDQJBVcgNAeINEwjK-46t9rWUAxWEMYMDHcEeEFTqDRMIuPyPrfa1lAMVhDGDAx3BHhBU8A0CiA7___________8B2BMN0BUByhYCCgD4FgGAFwGyFxAYASoKMTEyNTYzNjg0NlAGuhcCOAGqGBcJAQAAAHSGTkESCjExMjU2MzY4NDYYAbIYCRIC4k4YLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIv6Ckrfa1lAMVhDGDAx3BHhBUEAEYASAAEgIvTfD_BwE&num=1&cid=CAQS0QEABaugfUEnLoR4_Eedj7gA01HzkAJIQQPmYOsJtcqMJCY8GtTW5VfDGtaryF-xngeAQNgCcolecTQhD-fA6iSxr-sBwQNK3rbqOfvf3Z5vOYsq8H2g7dDhf-qMcSNTWVSiW-37KdrSVjJLKjlAI083xKstgy6y4Ev4Dp_SU9Y9pU-iTWLQ-p1TyHrJGoTAAvTDb4le9yxq4uyGY9TEXTI2Bqc5rRrixRUPHLkuYxMumSgA2dqH6bMXhyoBHRIQpvtFiPfMCKGNCq_kXj70K_JoFBgB&sig=AOD64_1qTIj3R9c4AhelT8VMbDkB6drJFw&client=ca-pub-4865685300463942&rf=4&nb=1&adurl=https://www.lovecentralcoast.com/harvestfestival%3Futm_term%3D%26utm_campaign%3DLEO_LCC_AO_AUTUMN_DISPLAY%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D4957075698%26hsa_cam%3D23797925422%26hsa_grp%3D196637336075%26hsa_ad%3D806848671005%26hsa_src%3Dd%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D23797925422%26gclid%3DEAIaIQobChMIv6Ckrfa1lAMVhDGDAx3BHhBUEAEYASAAEgIvTfD_BwE
+                  - link "Open" [ref=f9e24] [cursor=pointer]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ClRDjykAEar-TO4TjjMwPwb3AoAXs_4XdhgHzw9aA4BWXnZOV9EEQASDe8J9eYKX4kYCQAaAB3NqHuSrIAQmpAudw-FroRqg-4AIAqAMByAMKqgT3AU_Q2z94r-Zyn_aQbs8rwAL1FEmvwwtTEQs0LCtrpy4qC71bC01xe5SoiMYVOpIZkITVDo0Favls3CH5G7sxRVu2JOZrdcajTUh6iZ7QkOwi0yhCWpfkqBFucxdS4sW8ULVNd-FuVaRDp65khY2LhPfx1-OgiCEVC6DPCQv0yDoKQVZQtlG6TPBhYVNZbxv_f6gwRY1qsjfCzAEBHgetDv_MSHMenL6QTa_ffS2h4iRLXheFgjHA7PYpEPA622NVz_8KB3cn41bl7Lomt8DAVx7iJCryLYFZCCP4OsxAjr4VOMA4rVuKGi0Gn55-M6yAGUAMwnobanLABIvE_sPcBeAEAYgFroze01igBi6AB9yS2JgFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggxCIBhEAEYnQEyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOljvx42t9rWUA7EJhv41pmr0QVmACgOYCwHICwGADAGqDQJBVcgNAeINEwjK-46t9rWUAxWEMYMDHcEeEFTqDRMIuPyPrfa1lAMVhDGDAx3BHhBU8A0CiA7___________8B2BMN0BUByhYCCgD4FgGAFwGyFxAYASoKMTEyNTYzNjg0NlAGuhcCOAGqGBcJAQAAAHSGTkESCjExMjU2MzY4NDYYAbIYCRIC4k4YLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIv6Ckrfa1lAMVhDGDAx3BHhBUEAEYASAAEgIvTfD_BwE&num=1&cid=CAQS0QEABaugfUEnLoR4_Eedj7gA01HzkAJIQQPmYOsJtcqMJCY8GtTW5VfDGtaryF-xngeAQNgCcolecTQhD-fA6iSxr-sBwQNK3rbqOfvf3Z5vOYsq8H2g7dDhf-qMcSNTWVSiW-37KdrSVjJLKjlAI083xKstgy6y4Ev4Dp_SU9Y9pU-iTWLQ-p1TyHrJGoTAAvTDb4le9yxq4uyGY9TEXTI2Bqc5rRrixRUPHLkuYxMumSgA2dqH6bMXhyoBHRIQpvtFiPfMCKGNCq_kXj70K_JoFBgB&sig=AOD64_1qTIj3R9c4AhelT8VMbDkB6drJFw&client=ca-pub-4865685300463942&rf=4&nb=8&adurl=https://www.lovecentralcoast.com/harvestfestival%3Futm_term%3D%26utm_campaign%3DLEO_LCC_AO_AUTUMN_DISPLAY%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D4957075698%26hsa_cam%3D23797925422%26hsa_grp%3D196637336075%26hsa_ad%3D806848671005%26hsa_src%3Dd%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D23797925422%26gclid%3DEAIaIQobChMIv6Ckrfa1lAMVhDGDAx3BHhBUEAEYASAAEgIvTfD_BwE
+                  - link [ref=f9e25] [cursor=pointer]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ClRDjykAEar-TO4TjjMwPwb3AoAXs_4XdhgHzw9aA4BWXnZOV9EEQASDe8J9eYKX4kYCQAaAB3NqHuSrIAQmpAudw-FroRqg-4AIAqAMByAMKqgT3AU_Q2z94r-Zyn_aQbs8rwAL1FEmvwwtTEQs0LCtrpy4qC71bC01xe5SoiMYVOpIZkITVDo0Favls3CH5G7sxRVu2JOZrdcajTUh6iZ7QkOwi0yhCWpfkqBFucxdS4sW8ULVNd-FuVaRDp65khY2LhPfx1-OgiCEVC6DPCQv0yDoKQVZQtlG6TPBhYVNZbxv_f6gwRY1qsjfCzAEBHgetDv_MSHMenL6QTa_ffS2h4iRLXheFgjHA7PYpEPA622NVz_8KB3cn41bl7Lomt8DAVx7iJCryLYFZCCP4OsxAjr4VOMA4rVuKGi0Gn55-M6yAGUAMwnobanLABIvE_sPcBeAEAYgFroze01igBi6AB9yS2JgFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggxCIBhEAEYnQEyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOljvx42t9rWUA7EJhv41pmr0QVmACgOYCwHICwGADAGqDQJBVcgNAeINEwjK-46t9rWUAxWEMYMDHcEeEFTqDRMIuPyPrfa1lAMVhDGDAx3BHhBU8A0CiA7___________8B2BMN0BUByhYCCgD4FgGAFwGyFxAYASoKMTEyNTYzNjg0NlAGuhcCOAGqGBcJAQAAAHSGTkESCjExMjU2MzY4NDYYAbIYCRIC4k4YLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIv6Ckrfa1lAMVhDGDAx3BHhBUEAEYASAAEgIvTfD_BwE&num=1&cid=CAQS0QEABaugfUEnLoR4_Eedj7gA01HzkAJIQQPmYOsJtcqMJCY8GtTW5VfDGtaryF-xngeAQNgCcolecTQhD-fA6iSxr-sBwQNK3rbqOfvf3Z5vOYsq8H2g7dDhf-qMcSNTWVSiW-37KdrSVjJLKjlAI083xKstgy6y4Ev4Dp_SU9Y9pU-iTWLQ-p1TyHrJGoTAAvTDb4le9yxq4uyGY9TEXTI2Bqc5rRrixRUPHLkuYxMumSgA2dqH6bMXhyoBHRIQpvtFiPfMCKGNCq_kXj70K_JoFBgB&sig=AOD64_1qTIj3R9c4AhelT8VMbDkB6drJFw&client=ca-pub-4865685300463942&rf=4&nb=8&adurl=https://www.lovecentralcoast.com/harvestfestival%3Futm_term%3D%26utm_campaign%3DLEO_LCC_AO_AUTUMN_DISPLAY%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D4957075698%26hsa_cam%3D23797925422%26hsa_grp%3D196637336075%26hsa_ad%3D806848671005%26hsa_src%3Dd%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D23797925422%26gclid%3DEAIaIQobChMIv6Ckrfa1lAMVhDGDAx3BHhBUEAEYASAAEgIvTfD_BwE
+                    - generic [ref=f9e27]:
+                      - img [ref=f9e28]
+                      - img [ref=f9e30]
+            - generic [ref=f9e35]:
+              - link [ref=f9e37] [cursor=pointer]:
+                - /url: https://adssettings.google.com/whythisad?source=display&reasons=AZwrskWJ7LsY1ZIjEuBivqEKtF3JKydSDaIHiNnFLiqoFkGPDp_BZkQObdeuA_HDNxDBfKCXTx5-JJdOBSiCfsC73wjg-Xi13mj5-0u-SlwGa5jI1LAq3cSvq6tuUTSigdMKNqvJHEFccMO-YAD8wNjHwV9RcmdW3l7FDzFONX3K3E25kW168InD0wPbHWh-g7MCzOqui2MgojQKtMBo_IJA6IZVYotZ30zXgBlUMqftp0VvursH-l9M_fdPJqQmgbK0zQYiIsFsh9tg4enVenqI4sqzAZiNf0SAoSKGPQJ9JCKCpMEHwzSeJmD8OMKfsQiBwaM9EHkxGbCxiHkUsap5ZG4r825NNXxiy3eGbwYpZV0pdlstQWu-cGgcquJjHOUUIYpfIFWXB8kVEr-GlDDOHTJhtJ4075s3mE8I9imPuM8PmMr1LCIjjjv-AlHWIgu4ccHH5iycKpy_VQXl-NVQHu54CKu608X1K0-K6RkIdslwVfhd_QGB-SWYbTcZh6ivEnoHJbpU1Ae-eWyb96N1ArHHZlHwYR7daF4qUAcQUhDTCt2zDJrZU_wuyGTgn81rIVxWBvyXI6-MSw3vmfkQ-o7NwRiOv9thauPmvV6zIpzyixrWZ9uLlG4OgFy47kRYclLLB_9jk9vYwpLMpSQI19yKdDTgoyOT7Hki_c8kn_zX9VGSMlM2Bd8oj72i9MDg6sLi_log_hGp6h-g-NLGhiLaF_YdsLHXIwY8IL40QhfYvV7e0__gUQ6eTdViikAD_LZfIVTQUKM8vHKZPXPhXrTA10J63BhLf3ffVi8jyzqPxUZMbc2NrZ90djnZCFonfNQ2sk0ldqItZOsKWPf1ddxFT8mqE8DaXCTnekLcgA6h2raB1IhlBzb1WrzMD2apmRRGRlqHuaNwAugymIo53OL3duNYF3VXYd8gCP0ASgQW1cy4TFQ-ShXnm7VVpaIGEwP05PYq3Zog0XLR32qI4ZGqft6yZbrxf_BA1HwNHY4VaDXZtJhg46L_1SEAlRy817get3QUu9JjvJbewlyj_g8aV9qtWF-ZZni8XbyafXpUxx-WBe2kTaMCYss1ZaN41MpoSLjJLO0GgZ-F2vQ8yhrPqQvh9T0XgnoX9U8ipSRxRcO84N1d1QPXDR3bvg4-AVRtvkzemqUmoRKPCKzKWJkVubT6-wNm489WFFFHJeMEW2LyWCgtdVN7vIvzfDzpgMcgxLGJWBX1zR9c2V4zRgMYl9d74Z0W-ZuRzfOQytY8ys7yqyFKfiUReT5JTye6EuGVqYKaZpaywXYDwRvLAa4KMGRQ5JV-jhq3RAfcP3Iq_Wfm_6kYewSVabhvPVfpLor4x8uGHX2TuzbldWX0YbAskds2EfU1j8g8kX_bTYHlx7EOXmzrfs6S4xGBbLx9PtZ2okeUdtQJBDkg7b4OJ7gMEJMIF8Vl7OWVNkc_wZ6z_Rws9U-yL46BPDPNfTM1p3Ws05ZCmh6VpDRnaWbRSwoTKVeuhI3N_TaguCTTnuKJrkiENKA3OKdyoqAXAvqUWSsR7aYfGPvXcuSYNZUk_t91X980pk224iBLnS3Vp9ygaClF9HN9mTrpxObdUAlv_cpsrs-W-AYCohRCDiegb3u97_2x362y86bKSo92JRzuC_Kfj8E2DltCWSxiA0fmlhzwYWa5wT6OXW2f4BldsG1pFbvslCvg56vvlOBg5LNO_eBy6zWHhOOjXB0lZOG3DeGg8AHVTERMrb74gecUPUTy1w6UcOpPiA4KERavFhWhv0vLRs25aXSmY4PHqfpflP14SxgzaxqoOHOFqUjwYjP5uA9fY-_frZH4BQZ5MXfXPs7mWud8jMSfgPDjVFqQFUNmzpjJKyki4I9X4jAHbVp9Cs81U3LQnFZJ9Rs6114d57yj78LwkxM7H_3PFQ5CBbvmPTipsOk1UcGGGqSP3FXDf1Q_iqZS3EAON9eRNYxAEuzJ8gtxBlaZOg5Ns9nrhQ7fxhAZ_JtZqjqXqerCYQFsAsjNGP1SNsMgqzyjUe4YcYk3O2KAN3mXIZKogYQIyosXuWvC1ii_bfefTGQKfigeaBXHhul-ucPsL89CfxFz7faj5gYgOtPex265HNOEljBii8Nzhyo4X6k9bErnGVfEYmC8FyWpPL_WmI1E6RPBmfs0EkG8exoSPD3qyZpnQrURa50zJHkysMqWFoRKbsjbO-dvAjHAOQwtEJLDSaX4THjU0KM75R01aSniwna2S20T_TX3X8iLhmV77ceUSEv50XHnQgC4AEU--MGR3Ackzp_b_yrc86FEdAt8z7qSkfD4qz1pjWkycoxmbwYyOiXO9MKlWb2yqKdJmZzsyrZQCQ_atmrRKzdhzFCx1sGOlNKAL8SxqPhgQ6GRI2jnQak72vMFPPkmM9yv5GXu7_vKZ2KmRwVVU6iKBfn6uj8Kl6RwLSb-d5rRYIWyi0NUBTjDvEDYJ-wK6tYfk3ZQq84Ov9gvCLuHSKR0OzQBer1kUXtIS5ppBE6Q2qlgSjoXiNw99XJIN7UO1zjfTDlkPTrq28w9RuIfOA&opi=122715837
+                - img [ref=f9e39]
+              - link [ref=f9e41] [cursor=pointer]:
+                - /url: https://adssettings.google.com/whythisad?source=display&reasons=AZwrskWJ7LsY1ZIjEuBivqEKtF3JKydSDaIHiNnFLiqoFkGPDp_BZkQObdeuA_HDNxDBfKCXTx5-JJdOBSiCfsC73wjg-Xi13mj5-0u-SlwGa5jI1LAq3cSvq6tuUTSigdMKNqvJHEFccMO-YAD8wNjHwV9RcmdW3l7FDzFONX3K3E25kW168InD0wPbHWh-g7MCzOqui2MgojQKtMBo_IJA6IZVYotZ30zXgBlUMqftp0VvursH-l9M_fdPJqQmgbK0zQYiIsFsh9tg4enVenqI4sqzAZiNf0SAoSKGPQJ9JCKCpMEHwzSeJmD8OMKfsQiBwaM9EHkxGbCxiHkUsap5ZG4r825NNXxiy3eGbwYpZV0pdlstQWu-cGgcquJjHOUUIYpfIFWXB8kVEr-GlDDOHTJhtJ4075s3mE8I9imPuM8PmMr1LCIjjjv-AlHWIgu4ccHH5iycKpy_VQXl-NVQHu54CKu608X1K0-K6RkIdslwVfhd_QGB-SWYbTcZh6ivEnoHJbpU1Ae-eWyb96N1ArHHZlHwYR7daF4qUAcQUhDTCt2zDJrZU_wuyGTgn81rIVxWBvyXI6-MSw3vmfkQ-o7NwRiOv9thauPmvV6zIpzyixrWZ9uLlG4OgFy47kRYclLLB_9jk9vYwpLMpSQI19yKdDTgoyOT7Hki_c8kn_zX9VGSMlM2Bd8oj72i9MDg6sLi_log_hGp6h-g-NLGhiLaF_YdsLHXIwY8IL40QhfYvV7e0__gUQ6eTdViikAD_LZfIVTQUKM8vHKZPXPhXrTA10J63BhLf3ffVi8jyzqPxUZMbc2NrZ90djnZCFonfNQ2sk0ldqItZOsKWPf1ddxFT8mqE8DaXCTnekLcgA6h2raB1IhlBzb1WrzMD2apmRRGRlqHuaNwAugymIo53OL3duNYF3VXYd8gCP0ASgQW1cy4TFQ-ShXnm7VVpaIGEwP05PYq3Zog0XLR32qI4ZGqft6yZbrxf_BA1HwNHY4VaDXZtJhg46L_1SEAlRy817get3QUu9JjvJbewlyj_g8aV9qtWF-ZZni8XbyafXpUxx-WBe2kTaMCYss1ZaN41MpoSLjJLO0GgZ-F2vQ8yhrPqQvh9T0XgnoX9U8ipSRxRcO84N1d1QPXDR3bvg4-AVRtvkzemqUmoRKPCKzKWJkVubT6-wNm489WFFFHJeMEW2LyWCgtdVN7vIvzfDzpgMcgxLGJWBX1zR9c2V4zRgMYl9d74Z0W-ZuRzfOQytY8ys7yqyFKfiUReT5JTye6EuGVqYKaZpaywXYDwRvLAa4KMGRQ5JV-jhq3RAfcP3Iq_Wfm_6kYewSVabhvPVfpLor4x8uGHX2TuzbldWX0YbAskds2EfU1j8g8kX_bTYHlx7EOXmzrfs6S4xGBbLx9PtZ2okeUdtQJBDkg7b4OJ7gMEJMIF8Vl7OWVNkc_wZ6z_Rws9U-yL46BPDPNfTM1p3Ws05ZCmh6VpDRnaWbRSwoTKVeuhI3N_TaguCTTnuKJrkiENKA3OKdyoqAXAvqUWSsR7aYfGPvXcuSYNZUk_t91X980pk224iBLnS3Vp9ygaClF9HN9mTrpxObdUAlv_cpsrs-W-AYCohRCDiegb3u97_2x362y86bKSo92JRzuC_Kfj8E2DltCWSxiA0fmlhzwYWa5wT6OXW2f4BldsG1pFbvslCvg56vvlOBg5LNO_eBy6zWHhOOjXB0lZOG3DeGg8AHVTERMrb74gecUPUTy1w6UcOpPiA4KERavFhWhv0vLRs25aXSmY4PHqfpflP14SxgzaxqoOHOFqUjwYjP5uA9fY-_frZH4BQZ5MXfXPs7mWud8jMSfgPDjVFqQFUNmzpjJKyki4I9X4jAHbVp9Cs81U3LQnFZJ9Rs6114d57yj78LwkxM7H_3PFQ5CBbvmPTipsOk1UcGGGqSP3FXDf1Q_iqZS3EAON9eRNYxAEuzJ8gtxBlaZOg5Ns9nrhQ7fxhAZ_JtZqjqXqerCYQFsAsjNGP1SNsMgqzyjUe4YcYk3O2KAN3mXIZKogYQIyosXuWvC1ii_bfefTGQKfigeaBXHhul-ucPsL89CfxFz7faj5gYgOtPex265HNOEljBii8Nzhyo4X6k9bErnGVfEYmC8FyWpPL_WmI1E6RPBmfs0EkG8exoSPD3qyZpnQrURa50zJHkysMqWFoRKbsjbO-dvAjHAOQwtEJLDSaX4THjU0KM75R01aSniwna2S20T_TX3X8iLhmV77ceUSEv50XHnQgC4AEU--MGR3Ackzp_b_yrc86FEdAt8z7qSkfD4qz1pjWkycoxmbwYyOiXO9MKlWb2yqKdJmZzsyrZQCQ_atmrRKzdhzFCx1sGOlNKAL8SxqPhgQ6GRI2jnQak72vMFPPkmM9yv5GXu7_vKZ2KmRwVVU6iKBfn6uj8Kl6RwLSb-d5rRYIWyi0NUBTjDvEDYJ-wK6tYfk3ZQq84Ov9gvCLuHSKR0OzQBer1kUXtIS5ppBE6Q2qlgSjoXiNw99XJIN7UO1zjfTDlkPTrq28w9RuIfOA&opi=122715837
+                - img [ref=f9e43]
+            - img [ref=f9e46] [cursor=pointer]
+            - generic [ref=f9e57]:
+              - img [ref=f9e60]
+              - generic [ref=f9e63]:
+                - text: Ads by
+                - img [ref=f9e64]
+              - generic [ref=f9e67]:
+                - generic [ref=f9e70] [cursor=pointer]: Send feedback
+                - link [ref=f9e72] [cursor=pointer]:
+                  - /url: https://adssettings.google.com/whythisad?source=display&reasons=AZwrskWJ7LsY1ZIjEuBivqEKtF3JKydSDaIHiNnFLiqoFkGPDp_BZkQObdeuA_HDNxDBfKCXTx5-JJdOBSiCfsC73wjg-Xi13mj5-0u-SlwGa5jI1LAq3cSvq6tuUTSigdMKNqvJHEFccMO-YAD8wNjHwV9RcmdW3l7FDzFONX3K3E25kW168InD0wPbHWh-g7MCzOqui2MgojQKtMBo_IJA6IZVYotZ30zXgBlUMqftp0VvursH-l9M_fdPJqQmgbK0zQYiIsFsh9tg4enVenqI4sqzAZiNf0SAoSKGPQJ9JCKCpMEHwzSeJmD8OMKfsQiBwaM9EHkxGbCxiHkUsap5ZG4r825NNXxiy3eGbwYpZV0pdlstQWu-cGgcquJjHOUUIYpfIFWXB8kVEr-GlDDOHTJhtJ4075s3mE8I9imPuM8PmMr1LCIjjjv-AlHWIgu4ccHH5iycKpy_VQXl-NVQHu54CKu608X1K0-K6RkIdslwVfhd_QGB-SWYbTcZh6ivEnoHJbpU1Ae-eWyb96N1ArHHZlHwYR7daF4qUAcQUhDTCt2zDJrZU_wuyGTgn81rIVxWBvyXI6-MSw3vmfkQ-o7NwRiOv9thauPmvV6zIpzyixrWZ9uLlG4OgFy47kRYclLLB_9jk9vYwpLMpSQI19yKdDTgoyOT7Hki_c8kn_zX9VGSMlM2Bd8oj72i9MDg6sLi_log_hGp6h-g-NLGhiLaF_YdsLHXIwY8IL40QhfYvV7e0__gUQ6eTdViikAD_LZfIVTQUKM8vHKZPXPhXrTA10J63BhLf3ffVi8jyzqPxUZMbc2NrZ90djnZCFonfNQ2sk0ldqItZOsKWPf1ddxFT8mqE8DaXCTnekLcgA6h2raB1IhlBzb1WrzMD2apmRRGRlqHuaNwAugymIo53OL3duNYF3VXYd8gCP0ASgQW1cy4TFQ-ShXnm7VVpaIGEwP05PYq3Zog0XLR32qI4ZGqft6yZbrxf_BA1HwNHY4VaDXZtJhg46L_1SEAlRy817get3QUu9JjvJbewlyj_g8aV9qtWF-ZZni8XbyafXpUxx-WBe2kTaMCYss1ZaN41MpoSLjJLO0GgZ-F2vQ8yhrPqQvh9T0XgnoX9U8ipSRxRcO84N1d1QPXDR3bvg4-AVRtvkzemqUmoRKPCKzKWJkVubT6-wNm489WFFFHJeMEW2LyWCgtdVN7vIvzfDzpgMcgxLGJWBX1zR9c2V4zRgMYl9d74Z0W-ZuRzfOQytY8ys7yqyFKfiUReT5JTye6EuGVqYKaZpaywXYDwRvLAa4KMGRQ5JV-jhq3RAfcP3Iq_Wfm_6kYewSVabhvPVfpLor4x8uGHX2TuzbldWX0YbAskds2EfU1j8g8kX_bTYHlx7EOXmzrfs6S4xGBbLx9PtZ2okeUdtQJBDkg7b4OJ7gMEJMIF8Vl7OWVNkc_wZ6z_Rws9U-yL46BPDPNfTM1p3Ws05ZCmh6VpDRnaWbRSwoTKVeuhI3N_TaguCTTnuKJrkiENKA3OKdyoqAXAvqUWSsR7aYfGPvXcuSYNZUk_t91X980pk224iBLnS3Vp9ygaClF9HN9mTrpxObdUAlv_cpsrs-W-AYCohRCDiegb3u97_2x362y86bKSo92JRzuC_Kfj8E2DltCWSxiA0fmlhzwYWa5wT6OXW2f4BldsG1pFbvslCvg56vvlOBg5LNO_eBy6zWHhOOjXB0lZOG3DeGg8AHVTERMrb74gecUPUTy1w6UcOpPiA4KERavFhWhv0vLRs25aXSmY4PHqfpflP14SxgzaxqoOHOFqUjwYjP5uA9fY-_frZH4BQZ5MXfXPs7mWud8jMSfgPDjVFqQFUNmzpjJKyki4I9X4jAHbVp9Cs81U3LQnFZJ9Rs6114d57yj78LwkxM7H_3PFQ5CBbvmPTipsOk1UcGGGqSP3FXDf1Q_iqZS3EAON9eRNYxAEuzJ8gtxBlaZOg5Ns9nrhQ7fxhAZ_JtZqjqXqerCYQFsAsjNGP1SNsMgqzyjUe4YcYk3O2KAN3mXIZKogYQIyosXuWvC1ii_bfefTGQKfigeaBXHhul-ucPsL89CfxFz7faj5gYgOtPex265HNOEljBii8Nzhyo4X6k9bErnGVfEYmC8FyWpPL_WmI1E6RPBmfs0EkG8exoSPD3qyZpnQrURa50zJHkysMqWFoRKbsjbO-dvAjHAOQwtEJLDSaX4THjU0KM75R01aSniwna2S20T_TX3X8iLhmV77ceUSEv50XHnQgC4AEU--MGR3Ackzp_b_yrc86FEdAt8z7qSkfD4qz1pjWkycoxmbwYyOiXO9MKlWb2yqKdJmZzsyrZQCQ_atmrRKzdhzFCx1sGOlNKAL8SxqPhgQ6GRI2jnQak72vMFPPkmM9yv5GXu7_vKZ2KmRwVVU6iKBfn6uj8Kl6RwLSb-d5rRYIWyi0NUBTjDvEDYJ-wK6tYfk3ZQq84Ov9gvCLuHSKR0OzQBer1kUXtIS5ppBE6Q2qlgSjoXiNw99XJIN7UO1zjfTDlkPTrq28w9RuIfOA&opi=122715837
+                  - generic [ref=f9e73]:
+                    - text: Why this ad?
+                    - img [ref=f9e74]
+            - generic [ref=f9e76]:
+              - generic [ref=f9e79] [cursor=pointer]: Ad was inappropriate
+              - generic [ref=f9e82] [cursor=pointer]: Seen this ad multiple times
+              - generic [ref=f9e85] [cursor=pointer]: Ad covered content
+              - generic [ref=f9e88] [cursor=pointer]: Not interested in this ad
+            - generic [ref=f9e94]: Thanks. Feedback improves Google ads
+            - generic [ref=f9e100]:
+              - text: Ad closed by
+              - img [ref=f9e101]
+        - generic [ref=e110]:
+          - generic [ref=e115]:
+            - generic [ref=e116]: Shows
+            - list [ref=e118]:
+              - listitem [ref=e119]:
+                - link "All Shows" [ref=e120] [cursor=pointer]:
+                  - /url: https://www.2gb.com/shows/
+              - listitem [ref=e121]:
+                - link "Weekday" [ref=e122] [cursor=pointer]:
+                  - /url: "https://www.2gb.com/shows/ "
+              - listitem [ref=e123]:
+                - link "Saturday" [ref=e124] [cursor=pointer]:
+                  - /url: https://www.2gb.com/shows/
+              - listitem [ref=e125]:
+                - link "Sunday" [ref=e126] [cursor=pointer]:
+                  - /url: https://www.2gb.com/shows/
+              - listitem [ref=e127]:
+                - link "Featured" [ref=e128] [cursor=pointer]:
+                  - /url: https://www.2gb.com/shows/
+          - generic [ref=e132]:
+            - generic [ref=e133]:
+              - generic [ref=e134]:
+                - generic [ref=e136]:
+                  - link "Ben Fordham Live" [ref=e138] [cursor=pointer]:
+                    - /url: https://www.2gb.com/show/ben-fordham-live/
+                    - img "Ben Fordham Live" [ref=e139]
+                  - generic [ref=e140]:
+                    - link "Ben Fordham Live" [ref=e142] [cursor=pointer]:
+                      - /url: https://www.2gb.com/show/ben-fordham-live/
+                    - paragraph [ref=e144]: "Ben Fordham is a Walkley award-winning journalist who hosts 2GB’s Breakfast Show. For more than 4 years, Ben Fordham has dominated breakfast radio. His show repeatedly tops the ratings and is consistently competitive for the #1 spot in Sydney."
+                    - generic [ref=e145]:
+                      - img [ref=e147]
+                      - generic [ref=e150]: MONDAY - FRIDAY / 5:30am - 9:00am
+                - generic [ref=e152]:
+                  - link "Mornings with Mark Levy" [ref=e154] [cursor=pointer]:
+                    - /url: https://www.2gb.com/show/morning-show/
+                    - img "Mornings with Mark Levy" [ref=e155]
+                  - generic [ref=e156]:
+                    - link "Mornings with Mark Levy" [ref=e158] [cursor=pointer]:
+                      - /url: https://www.2gb.com/show/morning-show/
+                    - paragraph [ref=e160]: Join Mark Levy weekdays for Mornings on 2GB. From breaking news and lively debates to insightful interviews with the biggest names in Australia and around the world, Mark brings you everything you need to stay informed and entertained. Tune in weekdays from 9:00 AM to 12:00 PM for the best in talk radio, only on 2GB.
+                    - generic [ref=e161]:
+                      - img [ref=e163]
+                      - generic [ref=e166]: MONDAY - FRIDAY / 9:00am - 12:00pm
+              - generic [ref=e167]:
+                - generic [ref=e169]:
+                  - link "Afternoons with Michael McLaren" [ref=e171] [cursor=pointer]:
+                    - /url: https://www.2gb.com/show/2gb-afternoons/
+                    - img "Afternoons with Michael McLaren" [ref=e172]
+                  - generic [ref=e173]:
+                    - link "Afternoons with Michael McLaren" [ref=e175] [cursor=pointer]:
+                      - /url: https://www.2gb.com/show/2gb-afternoons/
+                    - paragraph [ref=e177]: Join Michael McLaren for a mix of news, opinion, entertainment and fun from 12.00pm, Monday to Friday. You can contact the show on the text line 0460 873 873
+                    - generic [ref=e178]:
+                      - img [ref=e180]
+                      - generic [ref=e183]: MONDAY - FRIDAY / 12:00pm - 3:00pm
+                - generic [ref=e185]:
+                  - link "Sydney Now with Clinton Maynard" [ref=e187] [cursor=pointer]:
+                    - /url: https://www.2gb.com/show/2gb-drive/
+                    - img "Sydney Now with Clinton Maynard" [ref=e188]
+                  - generic [ref=e189]:
+                    - link "Sydney Now with Clinton Maynard" [ref=e191] [cursor=pointer]:
+                      - /url: https://www.2gb.com/show/2gb-drive/
+                    - paragraph [ref=e193]: If it's happening "right now" in Sydney, you'll hear it on Sydney Now with Clinton Maynard. From the very latest live & local news and hard-hitting opinions, to sport, weather, traffic and entertainment - Clinton will have you covered for your drive home.
+                    - generic [ref=e194]:
+                      - img [ref=e196]
+                      - generic [ref=e199]: MONDAY - FRIDAY / 3:00pm - 6:00pm
+              - generic [ref=e200]:
+                - generic [ref=e202]:
+                  - link "Sports Today with Adam Hawse" [ref=e204] [cursor=pointer]:
+                    - /url: https://www.2gb.com/show/wide-world-of-sports/
+                    - img "Sports Today with Adam Hawse" [ref=e205]
+                  - generic [ref=e206]:
+                    - link "Sports Today with Adam Hawse" [ref=e208] [cursor=pointer]:
+                      - /url: https://www.2gb.com/show/wide-world-of-sports/
+                    - paragraph [ref=e210]: Wide World of Sports is a brand sports lovers know and love and now it has its very own radio show. Each weekday, leading sports broadcaster Adam Hawse will be joined by some of the biggest names to have taken to the sporting field, and we’ll be checking in with all your favourite teams. It’s the show sports fans can't miss, with the opinions you want to hear and all the breaking news as it comes to hand.
+                    - generic [ref=e211]:
+                      - img [ref=e213]
+                      - generic [ref=e216]: MONDAY - FRIDAY / 6:00pm - 7:00pm
+                - generic [ref=e218]:
+                  - link "Money News with James Willis" [ref=e220] [cursor=pointer]:
+                    - /url: https://www.2gb.com/show/money-news/
+                    - img "Money News with James Willis" [ref=e221]
+                  - generic [ref=e222]:
+                    - link "Money News with James Willis" [ref=e224] [cursor=pointer]:
+                      - /url: https://www.2gb.com/show/money-news/
+                    - paragraph [ref=e226]: Whether you’re a business owner, an investor, a homeowner or renter, an employer or employee, the Money News team will keep you up to date with everything you need to know.
+                    - generic [ref=e227]:
+                      - img [ref=e229]
+                      - generic [ref=e232]: MONDAY - THURSDAY / 7:00pm - 8:00pm
+              - generic [ref=e233]:
+                - generic [ref=e235]:
+                  - link "The Continuous Call Team" [ref=e237] [cursor=pointer]:
+                    - /url: https://www.2gb.com/show/the-continuous-call-team/
+                    - img "The Continuous Call Team" [ref=e238]
+                  - generic [ref=e239]:
+                    - link "The Continuous Call Team" [ref=e241] [cursor=pointer]:
+                      - /url: https://www.2gb.com/show/the-continuous-call-team/
+                    - paragraph [ref=e243]: The Continuous Call Team brings you all the action from the NRL, with the best team in the business.
+                    - generic [ref=e244]:
+                      - img [ref=e246]
+                      - generic [ref=e249]: FRIDAY / 7:00pm - 11:00pm | SATURDAY / 1:00pm - 10:00pm | SUNDAY / 1:00pm - 6:00pm
+                - generic [ref=e251]:
+                  - link "Nights with John Stanley" [ref=e253] [cursor=pointer]:
+                    - /url: https://www.2gb.com/show/nights-with-john-stanley/
+                    - img "Nights with John Stanley" [ref=e254]
+                  - generic [ref=e255]:
+                    - link "Nights with John Stanley" [ref=e257] [cursor=pointer]:
+                      - /url: https://www.2gb.com/show/nights-with-john-stanley/
+                    - paragraph [ref=e259]: Unwind on weeknights with John Stanley. John delivers the latest in finance, movies, food, wine, cars, health, entertainment, quizzes, a fresh look at the stories of the day, your calls and of course the news as it breaks.
+                    - generic [ref=e260]:
+                      - img [ref=e262]
+                      - generic [ref=e265]: MON - THUR | 8:00pm - 12:00am
+              - generic [ref=e266]:
+                - generic [ref=e268]:
+                  - link "John Stanley’s Only Fans" [ref=e270] [cursor=pointer]:
+                    - /url: https://www.2gb.com/show/john-stanleys-only-fans/
+                    - img "John Stanley’s Only Fans" [ref=e271]
+                  - generic [ref=e272]:
+                    - link "John Stanley’s Only Fans" [ref=e274] [cursor=pointer]:
+                      - /url: https://www.2gb.com/show/john-stanleys-only-fans/
+                    - paragraph [ref=e276]: Unwind on Friday night with John Stanley's Only Fans.
+                    - generic [ref=e277]:
+                      - img [ref=e279]
+                      - generic [ref=e282]: FRIDAY | 10:30pm - 11:00pm
+                - generic [ref=e284]:
+                  - link "The Best of Ben Fordham" [ref=e286] [cursor=pointer]:
+                    - /url: https://www.2gb.com/show/the-best-of-ben-fordham/
+                    - img "The Best of Ben Fordham" [ref=e287]
+                  - generic [ref=e288]:
+                    - link "The Best of Ben Fordham" [ref=e290] [cursor=pointer]:
+                      - /url: https://www.2gb.com/show/the-best-of-ben-fordham/
+                    - paragraph [ref=e292]: Catch up on the best bits from the show with The Best of Ben Fordham every Friday night from 11pm to 12pm!
+                    - generic [ref=e293]:
+                      - img [ref=e295]
+                      - generic [ref=e298]: FRIDAY 11pm - 12am
+              - generic [ref=e299]:
+                - generic [ref=e301]:
+                  - link "Overnights with Phil O’Neil" [ref=e303] [cursor=pointer]:
+                    - /url: https://www.2gb.com/show/overnights-with-phil-oneil/
+                    - img "Overnights with Phil O’Neil" [ref=e304]
+                  - generic [ref=e305]:
+                    - link "Overnights with Phil O’Neil" [ref=e307] [cursor=pointer]:
+                      - /url: https://www.2gb.com/show/overnights-with-phil-oneil/
+                    - paragraph [ref=e309]: When much of the city sleeps, Phil O'Neil is keeping you company. Phil provides laughs and companionship, the news & stories of the day and your calls from midnight, Tuesday to Friday.
+                    - generic [ref=e310]:
+                      - img [ref=e312]
+                      - generic [ref=e315]: TUESDAY - FRIDAY / 12:00am - 5:30am
+                - generic [ref=e317]:
+                  - link "Overnights with Mike Jeffreys" [ref=e319] [cursor=pointer]:
+                    - /url: https://www.2gb.com/show/overnights-with-mike-jeffreys/
+                    - img "Overnights with Mike Jeffreys" [ref=e320]
+                  - generic [ref=e321]:
+                    - link "Overnights with Mike Jeffreys" [ref=e323] [cursor=pointer]:
+                      - /url: https://www.2gb.com/show/overnights-with-mike-jeffreys/
+                    - paragraph [ref=e325]: When much of the city sleeps, Mike Jeffreys is keeping you company. Mike provides laughs and companionship, the news & stories of the day from midnight on Mondays.
+                    - generic [ref=e326]:
+                      - img [ref=e328]
+                      - generic [ref=e331]: MONDAY / 12:00am - 5.30am
+            - list [ref=e336]:
+              - listitem [ref=e337]:
+                - link "1" [ref=e338] [cursor=pointer]:
+                  - /url: void(0)
+              - listitem [ref=e339]:
+                - link "2" [ref=e340] [cursor=pointer]:
+                  - /url: void(0)
+              - listitem [ref=e341]:
+                - link [ref=e342] [cursor=pointer]:
+                  - /url: void(0)
+                  - img [ref=e343]
+      - generic [ref=e353]:
+        - generic [ref=e354] [cursor=pointer]:
+          - generic [ref=e355]: 131 873
+          - link [ref=e357]:
+            - /url: tel:131%20873
+            - img [ref=e359]
+        - generic [ref=e361] [cursor=pointer]:
+          - generic [ref=e362]: FEEDBACK
+          - img [ref=e365]
+      - contentinfo [ref=e367]:
+        - generic [ref=e369]:
+          - generic [ref=e370]:
+            - link "2GB" [ref=e372] [cursor=pointer]:
+              - /url: https://www.2gb.com
+              - img "2GB" [ref=e373]
+            - generic:
+              - paragraph
+          - generic [ref=e374]:
+            - generic [ref=e375]:
+              - generic [ref=e377]:
+                - generic [ref=e378]:
+                  - heading "QUICK LINKS" [level=3] [ref=e379]
+                  - navigation [ref=e380]:
+                    - list [ref=e381]:
+                      - listitem [ref=e382]:
+                        - link "Shows" [ref=e383] [cursor=pointer]:
+                          - /url: https://www.2gb.com/shows/
+                      - listitem [ref=e384]:
+                        - link "Audio" [ref=e385] [cursor=pointer]:
+                          - /url: https://www.2gb.com/audio/
+                      - listitem [ref=e386]:
+                        - link "Competitions" [ref=e387] [cursor=pointer]:
+                          - /url: https://www.2gb.com/competitions/
+                      - listitem [ref=e388]:
+                        - link "Sports" [ref=e389] [cursor=pointer]:
+                          - /url: https://www.2gb.com/category/sport/
+                      - listitem [ref=e390]:
+                        - link "Rugby League" [ref=e391] [cursor=pointer]:
+                          - /url: https://www.2gb.com/rugby-league/
+                - generic [ref=e392]:
+                  - heading "NEWS" [level=3] [ref=e393]
+                  - navigation [ref=e394]:
+                    - list [ref=e395]:
+                      - listitem [ref=e396]:
+                        - link "All News" [ref=e397] [cursor=pointer]:
+                          - /url: https://www.2gb.com/audio/
+                      - listitem [ref=e398]:
+                        - link "News" [ref=e399] [cursor=pointer]:
+                          - /url: https://www.2gb.com/category/news/
+                      - listitem [ref=e400]:
+                        - link "Sports" [ref=e401] [cursor=pointer]:
+                          - /url: https://www.2gb.com/category/sport/
+                      - listitem [ref=e402]:
+                        - link "Money" [ref=e403] [cursor=pointer]:
+                          - /url: https://www.2gb.com/category/money/
+                      - listitem [ref=e404]:
+                        - link "Lifestyle" [ref=e405] [cursor=pointer]:
+                          - /url: https://www.2gb.com/category/lifestyle/
+              - generic [ref=e407]:
+                - heading "Join the conversation" [level=3] [ref=e408]
+                - navigation [ref=e409]:
+                  - list [ref=e410]:
+                    - listitem [ref=e411]:
+                      - link "Follow us on Facebook" [ref=e412] [cursor=pointer]:
+                        - /url: http://facebook.com/2GBSydney/
+                        - img [ref=e414]
+                        - text: Follow us on Facebook
+                    - listitem [ref=e417]:
+                      - link "Follow us on Twitter" [ref=e418] [cursor=pointer]:
+                        - /url: https://twitter.com/2GB873
+                        - img [ref=e420]
+                        - text: Follow us on Twitter
+                    - listitem [ref=e423]:
+                      - link "Keep up to date on YouTube" [ref=e424] [cursor=pointer]:
+                        - /url: https://www.youtube.com/@2GBSydney
+                        - img [ref=e426]
+                        - text: Keep up to date on YouTube
+            - generic [ref=e428]:
+              - heading "Get the app on your phone" [level=3] [ref=e429]
+              - list [ref=e431]:
+                - listitem [ref=e432]:
+                  - link "2GB IOS App Link" [ref=e433] [cursor=pointer]:
+                    - /url: https://itunes.apple.com/au/app/2gb/id403184432
+                    - img "2GB IOS App Link" [ref=e434]
+                - listitem [ref=e435]:
+                  - link "2GB Android App Link" [ref=e436] [cursor=pointer]:
+                    - /url: https://play.google.com/store/apps/details?id=com.jbm.macq.kony.twogb&hl=en
+                    - img "2GB Android App Link" [ref=e437]
+        - generic [ref=e440]:
+          - generic [ref=e442]: © Copyright Tapt Media 2026
+          - navigation [ref=e444]:
+            - list:
+              - listitem [ref=e445]:
+                - link "Advertise with us" [ref=e446] [cursor=pointer]:
+                  - /url: https://www.2gb.com/advertise-with-us/
+              - listitem [ref=e447]:
+                - text: ⁄
+                - link "Commercial Agreements" [ref=e448] [cursor=pointer]:
+                  - /url: https://www.2gb.com/commercial-agreements/
+              - listitem [ref=e449]:
+                - text: ⁄
+                - link "Privacy Policy" [ref=e450] [cursor=pointer]:
+                  - /url: https://login.taptmedia.com.au/privacy?client_id=2gb
+              - listitem [ref=e451]:
+                - text: ⁄
+                - link "Support" [ref=e452] [cursor=pointer]:
+                  - /url: https://www.2gb.com/support/
+              - listitem [ref=e453]:
+                - text: ⁄
+                - link "Complaints" [ref=e454] [cursor=pointer]:
+                  - /url: https://www.2gb.com/listener-complaints/
+  - img
